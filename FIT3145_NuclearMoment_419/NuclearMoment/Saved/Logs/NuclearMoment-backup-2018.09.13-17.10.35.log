@@ -1,0 +1,1268 @@
+﻿Log file open, 09/13/18 16:29:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: NuclearMoment
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1343936519) SRandInit(-1343936519).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283921
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.345s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-O852121 (118.138.10.174:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.13-06.29.42:144][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.13-06.29.42:144][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.13-06.29.42:154][  0]LogInit: Computer: DESKTOP-O852121
+[2018.09.13-06.29.42:154][  0]LogInit: User: hpy
+[2018.09.13-06.29.42:154][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.13-06.29.42:154][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2018.09.13-06.29.42:154][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.13-06.29.42:154][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.13-06.29.42:154][  0]LogMemory: Process Physical Memory: 273.72 MB used, 273.72 MB peak
+[2018.09.13-06.29.42:154][  0]LogMemory: Process Virtual Memory: 264.66 MB used, 264.66 MB peak
+[2018.09.13-06.29.42:154][  0]LogMemory: Physical Memory: 7308.76 MB used,  8960.47 MB free, 16269.23 MB total
+[2018.09.13-06.29.42:154][  0]LogMemory: Virtual Memory: 4794.20 MB used,  8960.47 MB free, 134217728.00 MB total
+[2018.09.13-06.29.42:196][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.09.13-06.29.42:196][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.09.13-06.29.42:638][  0]LogStreaming: Display: Took  0.442s to EndInitTextLocalization.
+[2018.09.13-06.29.42:639][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.13-06.29.42:679][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.13-06.29.42:679][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.13-06.29.43:025][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.13-06.29.43:103][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.09.13-06.29.43:103][  0]LogD3D11RHI:       4018/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.13-06.29.43:114][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.09.13-06.29.43:114][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.13-06.29.43:116][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.13-06.29.43:116][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.13-06.29.43:116][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.13-06.29.43:133][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.13-06.29.43:133][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.09.13-06.29.43:133][  0]LogWindows: EnumDisplayDevices:
+[2018.09.13-06.29.43:134][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.09.13-06.29.43:134][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.09.13-06.29.43:135][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.09.13-06.29.43:135][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.09.13-06.29.43:135][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.13-06.29.43:135][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.09.13-06.29.43:135][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.13-06.29.43:136][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.13-06.29.43:136][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2018.09.13-06.29.43:179][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.13-06.29.43:179][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.13-06.29.43:179][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.13-06.29.43:201][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.13-06.29.43:202][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Intermediate/Shaders/WorkingDirectory/20840/).
+[2018.09.13-06.29.43:203][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hpy/AppData/Local/Temp/UnrealShaderWorkingDir/467FCAF0416DFD31EE72B0B2B83A3E2B/'.
+[2018.09.13-06.29.43:458][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.13-06.29.43:472][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.13-06.29.43:485][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.13-06.29.43:498][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.13-06.29.43:512][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.13-06.29.43:525][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.13-06.29.43:538][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.13-06.29.43:551][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.13-06.29.43:558][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.13-06.29.43:570][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.13-06.29.43:583][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.13-06.29.43:595][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.13-06.29.43:608][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.09.13-06.29.43:619][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.13-06.29.43:632][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.13-06.29.43:657][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.13-06.29.43:657][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.13-06.29.43:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.13-06.29.43:672][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.13-06.29.43:710][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.13-06.29.43:721][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.13-06.29.43:734][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.13-06.29.43:746][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.13-06.29.43:761][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.13-06.29.43:774][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.13-06.29.43:775][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.13-06.29.43:908][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.13-06.29.43:908][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.13-06.29.43:908][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.13-06.29.44:533][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.13-06.29.44:595][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/hpy/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.13-06.29.44:595][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hpy/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.13-06.29.44:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.13-06.29.44:595][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.13-06.29.44:596][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.13-06.29.44:596][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.13-06.29.44:610][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.13-06.29.44:625][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hpy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.13-06.29.44:625][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.13-06.29.44:625][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.13-06.29.44:635][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.13-06.29.44:636][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.13-06.29.44:637][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.13-06.29.44:637][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.13-06.29.44:784][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.09.13-06.29.45:076][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.13-06.29.45:228][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.13-06.29.45:231][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.13-06.29.45:231][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.13-06.29.45:231][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.13-06.29.45:231][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.13-06.29.45:231][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.13-06.29.45:270][  0]LogNetVersion: NuclearMoment , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3518328640)
+[2018.09.13-06.29.45:691][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.042069 seconds
+[2018.09.13-06.29.45:696][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.09.13-06.29.45:696][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.09.13-06.29.45:696][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.13-06.29.47:561][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.13-06.29.47:599][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.13-06.29.48:077][  0]SourceControl: Source control is disabled
+[2018.09.13-06.29.48:077][  0]SourceControl: Source control is disabled
+[2018.09.13-06.29.48:103][  0]SourceControl: Source control is disabled
+[2018.09.13-06.29.48:130][  0]SourceControl: Source control is disabled
+[2018.09.13-06.29.48:819][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.13-06.29.49:041][  0]LogOcInput: OculusInput pre-init called
+[2018.09.13-06.29.49:175][  0]LogEngine: Initializing Engine...
+[2018.09.13-06.29.49:178][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.13-06.29.49:179][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.13-06.29.49:179][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.13-06.29.49:404][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.13-06.29.49:419][  0]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.13-06.29.49:446][  0]LogInit: FAudioDevice initialized.
+[2018.09.13-06.29.49:607][  0]LogDerivedDataCache: Saved boot cache 0.16s 74MB C:/Users/hpy/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.13-06.29.49:637][  0]LogInit: Texture streaming: Enabled
+[2018.09.13-06.29.49:654][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.13-06.29.49:668][  0]LogInit: Transaction tracking system initialized
+[2018.09.13-06.29.49:688][  0]BlueprintLog: New page: Editor Load
+[2018.09.13-06.29.49:753][  0]LocalizationService: Localization service is disabled
+[2018.09.13-06.29.49:878][  0]LogConsoleResponse: Display: 
+[2018.09.13-06.29.50:042][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.13-06.29.50:042][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.13-06.29.50:042][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.13-06.29.50:042][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.13-06.29.50:042][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.13-06.29.50:555][  0]LogFileCache: Scanning file cache for directory 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/' took 0.01s
+[2018.09.13-06.29.50:555][  0]SourceControl: Source control is disabled
+[2018.09.13-06.29.50:555][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.13-06.29.50:555][  0]LightingResults: New page: Lighting Build
+[2018.09.13-06.29.50:557][  0]MapCheck: New page: Map Check
+[2018.09.13-06.29.50:557][  0]LightingResults: New page: Lighting Build
+[2018.09.13-06.29.50:745][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.09.13-06.29.50:753][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.13-06.29.50:766][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.13-06.29.50:831][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.867ms to complete.
+[2018.09.13-06.29.50:831][  0]LogFileHelpers: Loading map 'Template_Default' took 0.277
+[2018.09.13-06.29.50:926][  0]LogCollectionManager: Loaded 0 collections in 0.001209 seconds
+[2018.09.13-06.29.50:968][  0]LogFileCache: Scanning file cache for directory 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/Collections/' took 0.01s
+[2018.09.13-06.29.50:968][  0]LogFileCache: Scanning file cache for directory 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Developers/hpy/Collections/' took 0.01s
+[2018.09.13-06.29.50:968][  0]LogFileCache: Scanning file cache for directory 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Collections/' took 0.01s
+[2018.09.13-06.29.50:968][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.13-06.29.50:978][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2452 classes and 558 folders.
+[2018.09.13-06.29.50:983][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.13-06.29.51:061][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.13-06.29.51:115][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.13-06.29.51:134][  0]LogSlate: Took 0.000513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.13-06.29.51:137][  0]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.13-06.29.51:140][  0]LogSlate: Took 0.000525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.13-06.29.51:283][  0]LogRenderer: Reallocating scene render targets to support 900x712 Format 10 NumSamples 1 (Frame:1).
+[2018.09.13-06.29.51:421][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.13-06.29.51:421][  0]LogLoad: (Engine Initialization) Total time: 12.34 seconds
+[2018.09.13-06.29.51:421][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.13-06.29.51:760][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.13-06.29.51:786][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.13-06.29.52:106][  1]LogAssetRegistry: Asset discovery search completed in 7.3451 seconds
+[2018.09.13-06.29.52:107][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.13-06.29.52:107][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2018.09.13-06.30.02:346][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-06.30.04:680][400]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-06.30.06:961][484]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.13-06.30.06:981][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.13-06.30.07:094][485]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.NuclearMoment
+[2018.09.13-06.30.07:094][485]LogTemp: CWD: D:\Unreal\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.09.13-06.30.07:094][485]LogTemp: Initial Dir: D:\Unreal\UE_4.19
+[2018.09.13-06.30.07:094][485]LogTemp: Env CWD: D:\Unreal\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.09.13-06.30.07:094][485]LogTemp: BranchPath = DESKTOP-O852121/D/Unreal/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-O852121/D/Unreal/UE_4.19/Engine/Binaries
+[2018.09.13-06.30.07:094][485]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\hpy\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.13-06.33.18:211][187]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.13-06.33.18:270][187]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.09.13-06.33.31:851][907]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.13-06.33.43:710][618]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909e4f6b18, Size=8, Default__Flipper_controller_C Function /Game/Andy/blueprint/Flipper_controller.Flipper_controller_C:ExecuteUbergraph_Flipper_controller
+[2018.09.13-06.33.43:714][618]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909e4f6b18, Size=8
+[2018.09.13-06.33.43:714][618]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909e4f6b18, Size=8, Default__Flipper_controller_C Function /Engine/Transient.REINST_Flipper_controller_C_5:ExecuteUbergraph_Flipper_controller
+[2018.09.13-06.33.43:717][618]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909e4f4c98, Size=8, Default__Flipper_controller_C Function /Game/Andy/blueprint/Flipper_controller.Flipper_controller_C:ExecuteUbergraph_Flipper_controller
+[2018.09.13-06.33.43:721][618]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190c49d8800, Size=832, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.33.43:727][618]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190c49d8800, Size=832
+[2018.09.13-06.33.43:727][618]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190f589b580, Size=832, Default__player0_controller_C Function /Engine/Transient.REINST_player0_controller_C_7:ExecuteUbergraph_player0_controller
+[2018.09.13-06.33.43:736][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Endcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:736][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Endcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:736][618]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Endcharge" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Endcharge
+[2018.09.13-06.33.43:736][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Startcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:736][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Startcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Startcharge" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Startcharge
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  Plunger  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  P 1right Flipper  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  P 1left Flipper  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  P 0right Flipper  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.33.43:737][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:738][618]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.33.43:738][618]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.33.43:740][618]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.33.43:740][618]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.33.43:740][618]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.33.43:740][618]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.33.43:740][618]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.33.43:740][618]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.33.43:740][618]LogBlueprint: Error: [Compiler player0_controller] The type of  Array  is undetermined.  Connect something to  ForEachLoop  to imply a specific type.
+[2018.09.13-06.33.43:740][618]LogBlueprint: Error: [Compiler player0_controller] The type of  Target Array  is undetermined.  Connect something to  Length  to imply a specific type.
+[2018.09.13-06.33.43:742][618]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190f5898100, Size=832, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.33.43:743][618]LogBlueprint: Warning: [Compiler player0_controller] [0244.66] Compile of player0_controller failed. 36 Fatal Issue(s) 0 Warning(s) [in 18 ms] (/Game/Andy/blueprint/player0_controller.player0_controller)
+[2018.09.13-06.33.43:774][618]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.13-06.33.44:065][618]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.09.13-06.33.44:337][618]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909f8a37c0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.13-06.33.44:337][618]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909f8a37b8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.13-06.33.44:755][618]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.13-06.33.44:904][619]LogSlate: Took 0.000411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.13-06.34.00:780][550]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.13-06.34.00:780][550]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.13-06.34.22:126][763]LogSlate: Window 'player0_controller*' being destroyed
+[2018.09.13-06.35.02:930][187]LogUObjectGlobals: Created PersistentFrame Addr=0x000001910e98d238, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.35.25:386][492]BlueprintLog: New page: Compile player0_controller
+[2018.09.13-06.35.25:398][492]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001910e98d238, Size=4
+[2018.09.13-06.35.25:398][492]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190d114f330, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_23:ExecuteUbergraph_player0_controller
+[2018.09.13-06.35.25:411][492]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190f5898100, Size=832
+[2018.09.13-06.35.25:411][492]LogUObjectGlobals: Created PersistentFrame Addr=0x000001910fe71980, Size=832, player0_controller_C_1 Function /Engine/Transient.REINST_player0_controller_C_25:ExecuteUbergraph_player0_controller
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Endcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Endcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Endcharge" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Endcharge
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Startcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Startcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Startcharge" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Startcharge
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  Plunger  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  P 1right Flipper  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  P 1left Flipper  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:419][492]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  P 0right Flipper  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.35.25:420][492]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.35.25:423][492]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.35.25:423][492]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.35.25:423][492]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.35.25:423][492]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.35.25:423][492]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.35.25:423][492]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.35.25:423][492]LogBlueprint: Error: [Compiler player0_controller] The type of  Array  is undetermined.  Connect something to  ForEachLoop  to imply a specific type.
+[2018.09.13-06.35.25:423][492]LogBlueprint: Error: [Compiler player0_controller] The type of  Target Array  is undetermined.  Connect something to  Length  to imply a specific type.
+[2018.09.13-06.35.25:425][492]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190f5898800, Size=848, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.35.25:582][492]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190f589b580, Size=832
+[2018.09.13-06.35.25:582][492]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909e4f6b18, Size=8
+[2018.09.13-06.35.25:583][492]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190d114f330, Size=4
+[2018.09.13-06.35.25:596][492]LogBlueprint: Warning: [Compiler player0_controller] [0346.51] Compile of player0_controller failed. 37 Fatal Issue(s) 0 Warning(s) [in 208 ms] (/Game/Andy/blueprint/player0_controller.player0_controller)
+[2018.09.13-06.36.20:888][786]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019111f280e8, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.36.24:960][ 26]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019111f280e8, Size=4
+[2018.09.13-06.36.24:960][ 26]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190f79f5eb0, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_29:ExecuteUbergraph_player0_controller
+[2018.09.13-06.36.24:962][ 26]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190f79f47e0, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.37.00:385][138]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190f79f47e0, Size=4
+[2018.09.13-06.37.00:385][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019111f2a618, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_31:ExecuteUbergraph_player0_controller
+[2018.09.13-06.37.00:388][138]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019111f2a610, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.37.19:758][289]BlueprintLog: New page: Compile player0_controller
+[2018.09.13-06.37.19:770][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019111f2a610, Size=4
+[2018.09.13-06.37.19:770][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000001911379f810, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_33:ExecuteUbergraph_player0_controller
+[2018.09.13-06.37.19:783][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190f5898800, Size=848
+[2018.09.13-06.37.19:783][289]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190da3fe080, Size=848, Default__player0_controller_C Function /Engine/Transient.REINST_player0_controller_C_35:ExecuteUbergraph_player0_controller
+[2018.09.13-06.37.19:790][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Endcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:790][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Endcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:790][289]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Endcharge" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Endcharge
+[2018.09.13-06.37.19:790][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Startcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:790][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Startcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:790][289]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Startcharge" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Startcharge
+[2018.09.13-06.37.19:790][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  Plunger  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:790][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  P 1right Flipper  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:791][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  P 1left Flipper  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:791][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:791][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:791][289]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.37.19:791][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:791][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:791][289]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.37.19:791][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:791][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:791][289]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.37.19:791][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:791][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:792][289]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.37.19:792][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  P 0right Flipper  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:792][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:792][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:792][289]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.37.19:792][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:792][289]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.37.19:792][289]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.37.19:792][289]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.37.19:792][289]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.37.19:794][289]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.37.19:795][289]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.37.19:795][289]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.37.19:795][289]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.37.19:795][289]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.37.19:795][289]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.37.19:795][289]LogBlueprint: Error: [Compiler player0_controller] The type of  Array  is undetermined.  Connect something to  ForEachLoop  to imply a specific type.
+[2018.09.13-06.37.19:795][289]LogBlueprint: Error: [Compiler player0_controller] The type of  Target Array  is undetermined.  Connect something to  Length  to imply a specific type.
+[2018.09.13-06.37.19:797][289]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190d9ff8100, Size=824, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.37.19:948][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001910fe71980, Size=832
+[2018.09.13-06.37.19:948][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001911379f810, Size=4
+[2018.09.13-06.37.19:961][289]LogBlueprint: Warning: [Compiler player0_controller] [0460.88] Compile of player0_controller failed. 38 Fatal Issue(s) 0 Warning(s) [in 203 ms] (/Game/Andy/blueprint/player0_controller.player0_controller)
+[2018.09.13-06.37.24:215][535]BlueprintLog: New page: Compile Flipper_controller
+[2018.09.13-06.37.24:238][535]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909e4f4c98, Size=8
+[2018.09.13-06.37.24:238][535]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190da6837f8, Size=8, Default__Flipper_controller_C Function /Engine/Transient.REINST_Flipper_controller_C_41:ExecuteUbergraph_Flipper_controller
+[2018.09.13-06.37.24:241][535]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190da6835e0, Size=8, Default__Flipper_controller_C Function /Game/Andy/blueprint/Flipper_controller.Flipper_controller_C:ExecuteUbergraph_Flipper_controller
+[2018.09.13-06.37.24:457][535]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190da3fe080, Size=848
+[2018.09.13-06.37.24:976][559]LogSavePackage: Save=29.37ms
+[2018.09.13-06.37.24:976][559]LogSavePackage: Moving 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/Flipper_controller0B11568C43AFA05EAAE6A39A03BC00EB.tmp' to 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/Flipper_controller.uasset'
+[2018.09.13-06.37.24:978][559]LogSavePackage: Display: Finished SavePackage E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/Flipper_controller.uasset
+[2018.09.13-06.39.31:445][ 97]BlueprintLog: New page: Compile player0_controller
+[2018.09.13-06.39.31:469][ 97]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190d9ff8100, Size=824
+[2018.09.13-06.39.31:469][ 97]LogUObjectGlobals: Created PersistentFrame Addr=0x000001911bb0fc80, Size=824, Default__player0_controller_C Function /Engine/Transient.REINST_player0_controller_C_45:ExecuteUbergraph_player0_controller
+[2018.09.13-06.39.31:476][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Endcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:476][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Endcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:476][ 97]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Endcharge" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Endcharge
+[2018.09.13-06.39.31:476][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Startcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:476][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Startcharge . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:476][ 97]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Startcharge" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Startcharge
+[2018.09.13-06.39.31:476][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  Plunger  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  P 1right Flipper  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  P 1left Flipper  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  P 0right Flipper  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flopping . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flopping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flopping
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  <Unnamed>  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] In use pin  Target  no longer exists on node  Flipping . Please refresh node or break links to remove pin.
+[2018.09.13-06.39.31:477][ 97]LogBlueprint: Error: [Compiler player0_controller] Could not find a function named "Flipping" in 'player0_controller'.
+Make sure 'player0_controller' has been compiled for  Flipping
+[2018.09.13-06.39.31:480][ 97]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.39.31:480][ 97]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.39.31:480][ 97]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.39.31:481][ 97]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.39.31:481][ 97]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.39.31:481][ 97]LogBlueprint: Error: [Compiler player0_controller] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2018.09.13-06.39.31:483][ 97]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190c49db900, Size=848, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.39.31:632][ 97]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190da6837f8, Size=8
+[2018.09.13-06.39.31:647][ 97]LogBlueprint: Warning: [Compiler player0_controller] [0592.57] Compile of player0_controller failed. 34 Fatal Issue(s) 0 Warning(s) [in 201 ms] (/Game/Andy/blueprint/player0_controller.player0_controller)
+[2018.09.13-06.39.41:832][699]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019111f28088, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.39.49:845][178]BlueprintLog: New page: Compile player0_controller
+[2018.09.13-06.39.49:852][178]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019111f28088, Size=4
+[2018.09.13-06.39.49:852][178]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190da680c28, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_49:ExecuteUbergraph_player0_controller
+[2018.09.13-06.39.49:859][178]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190c49db900, Size=848
+[2018.09.13-06.39.49:859][178]LogUObjectGlobals: Created PersistentFrame Addr=0x000001911b5bd600, Size=848, player0_controller_C_2 Function /Engine/Transient.REINST_player0_controller_C_51:ExecuteUbergraph_player0_controller
+[2018.09.13-06.39.49:865][178]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909e48a240, Size=224, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.39.50:017][178]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001911bb0fc80, Size=824
+[2018.09.13-06.39.50:017][178]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190da680c28, Size=4
+[2018.09.13-06.40.47:236][552]LogSavePackage: Save=26.19ms
+[2018.09.13-06.40.47:236][552]LogSavePackage: Moving 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/player0_controllerD195BEE6418755202BD9E98AC64C88C3.tmp' to 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/player0_controller.uasset'
+[2018.09.13-06.40.47:239][552]LogSavePackage: Display: Finished SavePackage E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/player0_controller.uasset
+[2018.09.13-06.40.47:503][567]BlueprintLog: New page: Compile player0_controller
+[2018.09.13-06.40.47:519][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909e48a240, Size=224
+[2018.09.13-06.40.47:519][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001910d654480, Size=224, Default__player0_controller_C Function /Engine/Transient.REINST_player0_controller_C_55:ExecuteUbergraph_player0_controller
+[2018.09.13-06.40.47:525][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909eb188e0, Size=224, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.40.47:674][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001911b5bd600, Size=848
+[2018.09.13-06.41.49:106][215]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001910d654480, Size=224
+[2018.09.13-06.41.49:107][215]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.021
+[2018.09.13-06.41.49:110][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Andy/blueprint/player0_controller] ([1] browsable assets)...
+[2018.09.13-06.41.49:110][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Andy/blueprint/player0_controller]
+[2018.09.13-06.41.49:139][215]LogSavePackage: Save=25.07ms
+[2018.09.13-06.41.49:140][215]LogSavePackage: Moving 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/player0_controller_Auto1EF613BCC4FB68057FC9784B71B02FDAE.tmp' to 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/Autosaves/Game/Andy/blueprint/player0_controller_Auto1.uasset'
+[2018.09.13-06.41.49:142][215]LogSavePackage: Display: Finished SavePackage E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/Autosaves/Game/Andy/blueprint/player0_controller_Auto1.uasset
+[2018.09.13-06.41.49:142][215]LogFileHelpers: Auto-saving content packages took 0.034
+[2018.09.13-06.41.53:168][455]LogSlate: Took 0.000619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.13-06.41.59:646][753]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.09.13-06.41.59:654][753]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190f91fcea8, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.42.03:428][975]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.13-06.42.03:433][975]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.13-06.42.14:556][382]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.09.13-06.42.14:564][382]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190f91fcea8, Size=4
+[2018.09.13-06.42.14:564][382]LogUObjectGlobals: Created PersistentFrame Addr=0x00000191187e96e0, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_59:ExecuteUbergraph_player0_controller
+[2018.09.13-06.42.14:566][382]LogUObjectGlobals: Created PersistentFrame Addr=0x00000191187e8de0, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.42.16:874][516]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.13-06.42.16:878][516]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.13-06.42.20:021][702]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'p1left_flipper' instances, change its type, and recompile?
+[2018.09.13-06.42.20:021][702]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000191187e8de0, Size=4
+[2018.09.13-06.42.20:021][702]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019110507e40, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_61:ExecuteUbergraph_player0_controller
+[2018.09.13-06.42.20:024][702]LogUObjectGlobals: Created PersistentFrame Addr=0x00000191105076c0, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.42.25:078][999]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'p1right_flipper' instances, change its type, and recompile?
+[2018.09.13-06.42.25:079][999]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000191105076c0, Size=4
+[2018.09.13-06.42.25:079][999]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019111f291a0, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_63:ExecuteUbergraph_player0_controller
+[2018.09.13-06.42.25:081][999]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019111f2a480, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.42.26:111][ 57]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.13-06.42.26:115][ 57]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.13-06.42.35:109][592]BlueprintLog: New page: Compile player0_controller
+[2018.09.13-06.42.35:117][592]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019111f2a480, Size=4
+[2018.09.13-06.42.35:117][592]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190d99fde70, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_65:ExecuteUbergraph_player0_controller
+[2018.09.13-06.42.35:125][592]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909eb188e0, Size=224
+[2018.09.13-06.42.35:126][592]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190d0e3c560, Size=224, Default__player0_controller_C Function /Engine/Transient.REINST_player0_controller_C_67:ExecuteUbergraph_player0_controller
+[2018.09.13-06.42.35:131][592]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909eb1b580, Size=224, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.42.35:284][592]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190d99fde70, Size=4
+[2018.09.13-06.43.31:301][902]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019110504380, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.43.34:399][ 85]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019110504380, Size=4
+[2018.09.13-06.43.34:400][ 85]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909e4f7910, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_71:ExecuteUbergraph_player0_controller
+[2018.09.13-06.43.34:402][ 85]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909e4f4f80, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.43.36:421][204]LogEditorTransaction: Undo Move Nodes
+[2018.09.13-06.43.36:422][204]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909e4f4f80, Size=4
+[2018.09.13-06.43.36:422][204]LogUObjectGlobals: Created PersistentFrame Addr=0x00000191187eb510, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_73:ExecuteUbergraph_player0_controller
+[2018.09.13-06.43.36:424][204]LogUObjectGlobals: Created PersistentFrame Addr=0x00000191187ea7a8, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.43.37:335][256]LogEditorTransaction: Undo Paste clipboard contents
+[2018.09.13-06.43.37:336][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000191187ea7a8, Size=4
+[2018.09.13-06.43.37:336][256]LogUObjectGlobals: Created PersistentFrame Addr=0x00000191187ea7a8, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_75:ExecuteUbergraph_player0_controller
+[2018.09.13-06.43.37:340][256]LogUObjectGlobals: Created PersistentFrame Addr=0x00000191187ebd20, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.43.40:142][421]LogUObjectHash: Warning: Ambiguous search, could be K2Node_MacroInstance /Game/Andy/blueprint/player0_controller.player0_controller:EventGraph.K2Node_MacroInstance_105 or K2Node_MacroInstance /Game/Andy/blueprint/player0_controller.player0_controller:EventGraph.K2Node_MacroInstance_105
+[2018.09.13-06.43.40:142][421]LogUObjectHash: Warning: Ambiguous search, could be K2Node_MacroInstance /Game/Andy/blueprint/player0_controller.player0_controller:EventGraph.K2Node_MacroInstance_115 or K2Node_MacroInstance /Game/Andy/blueprint/player0_controller.player0_controller:EventGraph.K2Node_MacroInstance_115
+[2018.09.13-06.43.40:143][421]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Andy/blueprint/player0_controller.player0_controller:EventGraph.K2Node_CallFunction_304 or K2Node_CallFunction /Game/Andy/blueprint/player0_controller.player0_controller:EventGraph.K2Node_CallFunction_304
+[2018.09.13-06.43.40:143][421]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/Andy/blueprint/player0_controller.player0_controller:EventGraph.K2Node_CallFunction_305 or K2Node_CallFunction /Game/Andy/blueprint/player0_controller.player0_controller:EventGraph.K2Node_CallFunction_305
+[2018.09.13-06.43.40:152][421]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000191187ebd20, Size=4
+[2018.09.13-06.43.40:152][421]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909e4f4270, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_77:ExecuteUbergraph_player0_controller
+[2018.09.13-06.43.40:154][421]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909e4f4848, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.43.42:827][578]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909e4f4848, Size=4
+[2018.09.13-06.43.42:827][578]LogUObjectGlobals: Created PersistentFrame Addr=0x000001911379c0c8, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_79:ExecuteUbergraph_player0_controller
+[2018.09.13-06.43.42:831][578]LogUObjectGlobals: Created PersistentFrame Addr=0x000001911379c9e8, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.44.42:855][131]BlueprintLog: New page: Compile player0_controller
+[2018.09.13-06.44.42:866][131]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001911379c9e8, Size=4
+[2018.09.13-06.44.42:866][131]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019125a84dd8, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_81:ExecuteUbergraph_player0_controller
+[2018.09.13-06.44.42:878][131]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909eb1b580, Size=224
+[2018.09.13-06.44.42:878][131]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019125844640, Size=224, player0_controller_C_3 Function /Engine/Transient.REINST_player0_controller_C_83:ExecuteUbergraph_player0_controller
+[2018.09.13-06.44.42:889][131]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019124d4b400, Size=720, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.44.43:045][131]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001911379c0c8, Size=4
+[2018.09.13-06.44.43:045][131]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909e4f4270, Size=4
+[2018.09.13-06.44.43:045][131]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000191187eb510, Size=4
+[2018.09.13-06.44.43:045][131]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000191187ea7a8, Size=4
+[2018.09.13-06.44.43:045][131]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019125a84dd8, Size=4
+[2018.09.13-06.44.43:045][131]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190d0e3c560, Size=224
+[2018.09.13-06.44.43:045][131]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909e4f7910, Size=4
+[2018.09.13-06.44.43:509][151]LogSavePackage: Save=39.72ms
+[2018.09.13-06.44.43:509][151]LogSavePackage: Moving 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/player0_controller30E5002047B51CBBAB788F8B1B9931A4.tmp' to 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/player0_controller.uasset'
+[2018.09.13-06.44.43:514][151]LogSavePackage: Display: Finished SavePackage E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/player0_controller.uasset
+[2018.09.13-06.44.56:967][904]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.13-06.44.57:091][905]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.NuclearMoment
+[2018.09.13-06.44.57:092][905]LogTemp: CWD: D:\Unreal\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.09.13-06.44.57:092][905]LogTemp: Initial Dir: D:\Unreal\UE_4.19
+[2018.09.13-06.44.57:092][905]LogTemp: Env CWD: D:\Unreal\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.09.13-06.44.57:092][905]LogTemp: BranchPath = DESKTOP-O852121/D/Unreal/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-O852121/D/Unreal/UE_4.19/Engine/Binaries
+[2018.09.13-06.44.57:092][905]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\hpy\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.13-06.45.14:463][934]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.13-06.45.14:464][934]LogLinker: Warning: Can't find file '/Game/blue_print/player0_controller'
+[2018.09.13-06.45.14:464][934]LogLinker: Warning: Can't find file for asset '/Game/blue_print/player0_controller' while loading E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/Pinbalgamemode.uasset.
+[2018.09.13-06.45.14:464][934]LoadErrors: Error: /Game/Andy/blueprint/Pinbalgamemode : Can't find file for asset. /Game/blue_print/player0_controller
+[2018.09.13-06.45.14:464][934]LogLinker: Warning: Can't find file '/Game/blue_print/player0_controller'
+[2018.09.13-06.45.14:464][934]LogLinker: Warning: Can't find file for asset '/Game/blue_print/player0_controller' while loading E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/Pinbalgamemode.uasset.
+[2018.09.13-06.45.14:464][934]LogLinker: Warning: Can't find file '/Game/blue_print/player0_controller'
+[2018.09.13-06.45.14:466][934]LogLinker: Warning: Can't find file for asset '/Game/blue_print/player0_controller' while loading NULL.
+[2018.09.13-06.45.14:466][934]LogLinker: Warning: Can't find file '/Game/blue_print/player0_controller'
+[2018.09.13-06.45.14:466][934]LogLinker: Warning: Can't find file for asset '/Game/blue_print/player0_controller' while loading NULL.
+[2018.09.13-06.45.14:466][934]LogLinker: Warning: Can't find file '/Game/blue_print/player0_controller'
+[2018.09.13-06.45.14:466][934]LoadErrors: Failed to load /Game/blue_print/player0_controller.player0_controller_C Referenced by Default__Pinbalgamemode_C
+[2018.09.13-06.45.14:466][934]LogLinker: Warning: Can't find file for asset '/Game/blue_print/player0_controller' while loading NULL.
+[2018.09.13-06.45.20:032][249]LogSlate: Window 'Class Defaults' being destroyed
+[2018.09.13-06.45.20:034][249]LogSlate: Window 'Class Defaults' being destroyed
+[2018.09.13-06.45.24:375][505]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019125844640, Size=224
+[2018.09.13-06.45.26:167][505]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.13-06.45.40:261][247]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.13-06.45.54:801][ 97]LogRenderer: Reallocating scene render targets to support 912x712 Format 10 NumSamples 1 (Frame:1).
+[2018.09.13-06.45.56:471][194]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.13-06.46.01:734][509]BlueprintLog: New page: Compile Pinballgamemode
+[2018.09.13-06.46.03:088][580]LogLinker: Warning: Can't find file '/Game/Andy/blueprint/Pinbalgamemode'
+[2018.09.13-06.46.03:088][580]LogLinker: Warning: Can't find file '/Game/Andy/blueprint/Pinbalgamemode'
+[2018.09.13-06.46.03:088][580]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Andy/blueprint/Pinbalgamemode.Pinbalgamemode_C'
+[2018.09.13-06.46.22:412][549]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.09.13-06.46.22:412][549]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/PlungerController.uasset.
+[2018.09.13-06.46.22:412][549]LoadErrors: Error: /Game/Andy/blueprint/PlungerController : Can't find file for asset. /Game/model/SM_Plunger
+[2018.09.13-06.46.22:412][549]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.09.13-06.46.22:412][549]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/PlungerController.uasset.
+[2018.09.13-06.46.22:413][549]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019137524340, Size=164, Default__PlungerController_C Function /Game/Andy/blueprint/PlungerController.PlungerController_C:ExecuteUbergraph_PlungerController
+[2018.09.13-06.46.22:413][549]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.09.13-06.46.22:413][549]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading NULL.
+[2018.09.13-06.46.22:413][549]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.09.13-06.46.22:413][549]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading NULL.
+[2018.09.13-06.46.22:414][549]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.09.13-06.46.22:415][549]LoadErrors: Failed to load /Game/model/SM_Plunger.SM_Plunger Referenced by PlugerMesh_GEN_VARIABLE
+[2018.09.13-06.46.22:415][549]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading NULL.
+[2018.09.13-06.46.22:416][549]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019137524340, Size=164
+[2018.09.13-06.46.22:416][549]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019137524340, Size=164, Default__PlungerController_C Function /Engine/Transient.REINST_PlungerController_C_93:ExecuteUbergraph_PlungerController
+[2018.09.13-06.46.22:418][549]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019137527f40, Size=164, Default__PlungerController_C Function /Game/Andy/blueprint/PlungerController.PlungerController_C:ExecuteUbergraph_PlungerController
+[2018.09.13-06.46.24:526][672]Cmd: DELETE
+[2018.09.13-06.46.24:526][672]Cmd: ACTOR DELETE
+[2018.09.13-06.46.24:528][672]LogEditorActor: Deleted Actor: PlungerController_C
+[2018.09.13-06.46.24:550][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019137524340, Size=164
+[2018.09.13-06.46.24:551][672]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.09.13-06.46.25:085][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.13-06.46.40:356][597]LogSavePackage: Save=4.85ms
+[2018.09.13-06.46.40:356][597]LogSavePackage: Moving 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/Pinballgamemode75028D044BE810259497C1B93A2A7E06.tmp' to 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/Pinballgamemode.uasset'
+[2018.09.13-06.46.40:360][597]LogSavePackage: Display: Finished SavePackage E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/Pinballgamemode.uasset
+[2018.09.13-06.46.40:738][620]BlueprintLog: New page: Compile Pinballgamemode
+[2018.09.13-06.46.46:281][938]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.13-06.47.30:891][620]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'Plunger' instances, change its type, and recompile?
+[2018.09.13-06.47.30:895][620]LogUObjectGlobals: Created PersistentFrame Addr=0x000001913396c858, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.47.32:800][726]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.13-06.47.32:804][726]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.13-06.47.38:195][ 49]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001913396c858, Size=4
+[2018.09.13-06.47.38:195][ 49]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190aaee5f60, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_101:ExecuteUbergraph_player0_controller
+[2018.09.13-06.47.38:197][ 49]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190aaee4648, Size=4, Default__SKEL_player0_controller_C Function /Game/Andy/blueprint/player0_controller.SKEL_player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.49.54:044][ 42]BlueprintLog: New page: Compile player0_controller
+[2018.09.13-06.49.54:056][ 42]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190aaee4648, Size=4
+[2018.09.13-06.49.54:056][ 42]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019111f2b2a0, Size=4, Default__SKEL_player0_controller_C Function /Engine/Transient.REINST_SKEL_player0_controller_C_103:ExecuteUbergraph_player0_controller
+[2018.09.13-06.49.54:070][ 42]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019124d4b400, Size=720
+[2018.09.13-06.49.54:070][ 42]LogUObjectGlobals: Created PersistentFrame Addr=0x00000191373f1900, Size=720, Default__player0_controller_C Function /Engine/Transient.REINST_player0_controller_C_105:ExecuteUbergraph_player0_controller
+[2018.09.13-06.49.54:084][ 42]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019123b5fc80, Size=808, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.49.54:243][ 42]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019111f2b2a0, Size=4
+[2018.09.13-06.50.09:468][945]BlueprintLog: New page: Compile player0_controller
+[2018.09.13-06.50.09:493][945]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019123b5fc80, Size=808
+[2018.09.13-06.50.09:493][945]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190dfeda780, Size=808, player0_controller_C_4 Function /Engine/Transient.REINST_player0_controller_C_109:ExecuteUbergraph_player0_controller
+[2018.09.13-06.50.09:507][945]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019123b5cb80, Size=824, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.50.09:665][945]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000191373f1900, Size=720
+[2018.09.13-06.50.57:559][915]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.13-06.50.57:565][915]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.09.13-06.50.59:734][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:734][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/cubecontroller.uasset.
+[2018.09.13-06.50.59:734][ 45]LoadErrors: Error: /Game/Andy/blueprint/cubecontroller : Can't find file for asset. /Game/blue_print/BallController
+[2018.09.13-06.50.59:735][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:735][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/cubecontroller.uasset.
+[2018.09.13-06.50.59:735][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:735][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/cubecontroller.uasset.
+[2018.09.13-06.50.59:735][ 45]LogLinker: Warning: Can't find file '/Game/model/Cube'
+[2018.09.13-06.50.59:735][ 45]LogLinker: Warning: Can't find file for asset '/Game/model/Cube' while loading E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/cubecontroller.uasset.
+[2018.09.13-06.50.59:735][ 45]LoadErrors: Error: /Game/Andy/blueprint/cubecontroller : Can't find file for asset. /Game/model/Cube
+[2018.09.13-06.50.59:736][ 45]LogLinker: Warning: Can't find file '/Game/model/Cube'
+[2018.09.13-06.50.59:736][ 45]LogLinker: Warning: Can't find file for asset '/Game/model/Cube' while loading E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/cubecontroller.uasset.
+[2018.09.13-06.50.59:736][ 45]LogUObjectGlobals: Created PersistentFrame Addr=0x000001913b201350, Size=80, Default__cubecontroller_C Function /Game/Andy/blueprint/cubecontroller.cubecontroller_C:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.50.59:736][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:736][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading NULL.
+[2018.09.13-06.50.59:737][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:737][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading NULL.
+[2018.09.13-06.50.59:737][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:737][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading NULL.
+[2018.09.13-06.50.59:737][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:737][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading NULL.
+[2018.09.13-06.50.59:737][ 45]LogLinker: Warning: Can't find file '/Game/model/Cube'
+[2018.09.13-06.50.59:737][ 45]LogLinker: Warning: Can't find file for asset '/Game/model/Cube' while loading NULL.
+[2018.09.13-06.50.59:737][ 45]LogLinker: Warning: Can't find file '/Game/model/Cube'
+[2018.09.13-06.50.59:737][ 45]LogLinker: Warning: Can't find file for asset '/Game/model/Cube' while loading NULL.
+[2018.09.13-06.50.59:738][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:738][ 45]LoadErrors: Failed to load /Game/blue_print/BallController.BallController_C Referenced by K2Node_DynamicCast_0
+[2018.09.13-06.50.59:738][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading NULL.
+[2018.09.13-06.50.59:738][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:739][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading NULL.
+[2018.09.13-06.50.59:739][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:739][ 45]LoadErrors: Failed to load /Game/blue_print/BallController.BallController_C Referenced by K2Node_CustomEvent_0
+[2018.09.13-06.50.59:739][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading NULL.
+[2018.09.13-06.50.59:739][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:739][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading NULL.
+[2018.09.13-06.50.59:739][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:739][ 45]LoadErrors: Failed to load /Game/blue_print/BallController.BallController_C Referenced by K2Node_VariableGet_0
+[2018.09.13-06.50.59:739][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading NULL.
+[2018.09.13-06.50.59:739][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:740][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading NULL.
+[2018.09.13-06.50.59:740][ 45]LogLinker: Warning: Can't find file '/Game/blue_print/BallController'
+[2018.09.13-06.50.59:740][ 45]LoadErrors: Failed to load /Game/blue_print/BallController.BallController_C Referenced by K2Node_CallFunction_17
+[2018.09.13-06.50.59:740][ 45]LogLinker: Warning: Can't find file for asset '/Game/blue_print/BallController' while loading NULL.
+[2018.09.13-06.50.59:740][ 45]LogLinker: Warning: Can't find file '/Game/model/Cube'
+[2018.09.13-06.50.59:740][ 45]LoadErrors: Failed to load /Game/model/Cube.Cube Referenced by StaticMesh_GEN_VARIABLE
+[2018.09.13-06.50.59:741][ 45]LogLinker: Warning: Can't find file for asset '/Game/model/Cube' while loading NULL.
+[2018.09.13-06.50.59:742][ 45]LogBlueprint: Warning: [Compiler cubecontroller] Get : 'Ball' variable not found. Base class was probably changed. /Game/Andy/blueprint/cubecontroller.cubecontroller
+[2018.09.13-06.50.59:742][ 45]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001913b201350, Size=80
+[2018.09.13-06.50.59:742][ 45]LogUObjectGlobals: Created PersistentFrame Addr=0x000001913b2009f0, Size=80, Default__cubecontroller_C Function /Engine/Transient.REINST_cubecontroller_C_111:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.50.59:743][ 45]LogBlueprint: Error: [Compiler cubecontroller] Can't connect pins  Target  and  Ball : Actor Object Reference is not compatible with Object Reference.
+[2018.09.13-06.50.59:743][ 45]LogBlueprint: Warning: [Compiler cubecontroller] Could not find a variable named "Ball" in 'cubecontroller'.
+Make sure 'cubecontroller' has been compiled for  Get Ball
+[2018.09.13-06.50.59:744][ 45]LogBlueprint: Error: [Compiler cubecontroller] Can't connect pins  Ball  and  Target : Object Reference is not compatible with Actor Object Reference.
+[2018.09.13-06.50.59:744][ 45]LogBlueprint: Error: [Compiler cubecontroller] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.13-06.50.59:744][ 45]LogBlueprint: Error: [Compiler cubecontroller] In use pin  As Ball Controller  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.09.13-06.50.59:744][ 45]LogBlueprint: Error: [Compiler cubecontroller] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.13-06.50.59:744][ 45]LogBlueprint: Error: [Compiler cubecontroller] The property associated with  Ball  could not be found
+[2018.09.13-06.50.59:744][ 45]LogUObjectGlobals: Created PersistentFrame Addr=0x000001913b202930, Size=80, Default__cubecontroller_C Function /Game/Andy/blueprint/cubecontroller.cubecontroller_C:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.50.59:745][ 45]LogBlueprint: Warning: [Compiler cubecontroller] [1280.66] Compile of cubecontroller failed. 6 Fatal Issue(s) 2 Warning(s) [in 3 ms] (/Game/Andy/blueprint/cubecontroller.cubecontroller)
+[2018.09.13-06.51.20:466][265]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131c8f400, Size=496, Default__BallController_C Function /Game/Andy/blueprint/BallController.BallController_C:ExecuteUbergraph_BallController
+[2018.09.13-06.51.20:469][265]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131c8f400, Size=496
+[2018.09.13-06.51.20:469][265]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131c8f400, Size=496, Default__BallController_C Function /Engine/Transient.REINST_BallController_C_113:ExecuteUbergraph_BallController
+[2018.09.13-06.51.20:472][265]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131a25c00, Size=496, Default__BallController_C Function /Game/Andy/blueprint/BallController.BallController_C:ExecuteUbergraph_BallController
+[2018.09.13-06.51.20:500][265]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190c0e79180, Size=4, Default__SKEL_cubecontroller_C Function /Game/Andy/blueprint/cubecontroller.SKEL_cubecontroller_C:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.51.38:528][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190c0e79180, Size=4
+[2018.09.13-06.51.38:528][338]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131c53d88, Size=4, Default__SKEL_cubecontroller_C Function /Engine/Transient.REINST_SKEL_cubecontroller_C_117:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.51.38:530][338]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131c523d0, Size=4, Default__SKEL_cubecontroller_C Function /Game/Andy/blueprint/cubecontroller.SKEL_cubecontroller_C:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.51.49:673][  2]BlueprintLog: New page: Compile cubecontroller
+[2018.09.13-06.51.49:676][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131c523d0, Size=4
+[2018.09.13-06.51.49:676][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131c523d0, Size=4, Default__SKEL_cubecontroller_C Function /Engine/Transient.REINST_SKEL_cubecontroller_C_119:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.51.49:679][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001913b202930, Size=80
+[2018.09.13-06.51.49:679][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131961850, Size=80, cubecontroller_C_6 Function /Engine/Transient.REINST_cubecontroller_C_121:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.51.49:680][  2]LogBlueprint: Error: [Compiler cubecontroller] In use pin  Ball  no longer exists on node  Bump . Please refresh node or break links to remove pin.
+[2018.09.13-06.51.49:680][  2]LogBlueprint: Error: [Compiler cubecontroller] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.13-06.51.49:680][  2]LogBlueprint: Error: [Compiler cubecontroller] In use pin  As Ball Controller  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.09.13-06.51.49:680][  2]LogBlueprint: Error: [Compiler cubecontroller] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.09.13-06.51.49:681][  2]LogBlueprint: Error: [Compiler cubecontroller] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2018.09.13-06.51.49:681][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131962520, Size=72, Default__cubecontroller_C Function /Game/Andy/blueprint/cubecontroller.cubecontroller_C:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.51.49:779][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190dfeda780, Size=808
+[2018.09.13-06.51.49:779][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131c523d0, Size=4
+[2018.09.13-06.51.49:779][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131c53d88, Size=4
+[2018.09.13-06.51.49:779][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131c8f400, Size=496
+[2018.09.13-06.51.49:779][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001913b2009f0, Size=80
+[2018.09.13-06.51.49:788][  2]LogBlueprint: Warning: [Compiler cubecontroller] [1330.71] Compile of cubecontroller failed. 5 Fatal Issue(s) 0 Warning(s) [in 114 ms] (/Game/Andy/blueprint/cubecontroller.cubecontroller)
+[2018.09.13-06.51.56:323][389]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019149a4a2c8, Size=4, Default__SKEL_cubecontroller_C Function /Game/Andy/blueprint/cubecontroller.SKEL_cubecontroller_C:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.52.02:055][729]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019149a4a2c8, Size=4
+[2018.09.13-06.52.02:055][729]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131c52158, Size=4, Default__SKEL_cubecontroller_C Function /Engine/Transient.REINST_SKEL_cubecontroller_C_125:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.52.02:056][729]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131c50178, Size=4, Default__SKEL_cubecontroller_C Function /Game/Andy/blueprint/cubecontroller.SKEL_cubecontroller_C:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.52.04:148][788]LogSlate: Window 'Delete Variable' being destroyed
+[2018.09.13-06.52.04:156][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131c50178, Size=4
+[2018.09.13-06.52.04:156][788]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131c50178, Size=4, Default__SKEL_cubecontroller_C Function /Engine/Transient.REINST_SKEL_cubecontroller_C_127:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.52.04:158][788]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131c51998, Size=4, Default__SKEL_cubecontroller_C Function /Game/Andy/blueprint/cubecontroller.SKEL_cubecontroller_C:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.52.08:916][ 72]LogUObjectGlobals: Created PersistentFrame Addr=0x000001912fbf29d0, Size=80, Default__Bumper_controller_C Function /Game/Andy/blueprint/Bumper_controller.Bumper_controller_C:ExecuteUbergraph_Bumper_controller
+[2018.09.13-06.52.08:920][ 72]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001912fbf29d0, Size=80
+[2018.09.13-06.52.08:920][ 72]LogUObjectGlobals: Created PersistentFrame Addr=0x000001912fbf3920, Size=80, Default__Bumper_controller_C Function /Engine/Transient.REINST_Bumper_controller_C_129:ExecuteUbergraph_Bumper_controller
+[2018.09.13-06.52.08:921][ 72]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131960590, Size=80, Default__Bumper_controller_C Function /Game/Andy/blueprint/Bumper_controller.Bumper_controller_C:ExecuteUbergraph_Bumper_controller
+[2018.09.13-06.53.29:879][778]BlueprintLog: New page: Compile cubecontroller
+[2018.09.13-06.53.29:883][778]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131c51998, Size=4
+[2018.09.13-06.53.29:883][778]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131e40910, Size=4, Default__SKEL_cubecontroller_C Function /Engine/Transient.REINST_SKEL_cubecontroller_C_131:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.53.29:886][778]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131962520, Size=72
+[2018.09.13-06.53.29:886][778]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019155da8e00, Size=72, Default__cubecontroller_C Function /Engine/Transient.REINST_cubecontroller_C_133:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.53.29:887][778]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019155dabd30, Size=80, Default__cubecontroller_C Function /Game/Andy/blueprint/cubecontroller.cubecontroller_C:ExecuteUbergraph_cubecontroller
+[2018.09.13-06.53.30:055][778]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131961850, Size=80
+[2018.09.13-06.53.30:055][778]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001912fbf3920, Size=80
+[2018.09.13-06.53.30:055][778]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131e40910, Size=4
+[2018.09.13-06.53.30:055][778]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131c50178, Size=4
+[2018.09.13-06.53.30:055][778]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131c52158, Size=4
+[2018.09.13-06.53.51:419][448]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.13-06.53.51:565][448]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019155da8e00, Size=72
+[2018.09.13-06.53.51:586][448]LogSavePackage: Save=20.07ms
+[2018.09.13-06.53.51:586][448]LogSavePackage: Moving 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/NewMap246033DC48893747F55F3AA658AF95F3.tmp' to 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/NewMap.umap'
+[2018.09.13-06.53.51:589][448]LogSavePackage: Display: Finished SavePackage E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/NewMap.umap
+[2018.09.13-06.53.51:611][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Andy/NewMap_BuiltData" FILE="E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/NewMap_BuiltData.uasset" SILENT=true
+[2018.09.13-06.53.51:623][448]LogSavePackage: Save=10.30ms
+[2018.09.13-06.53.51:623][448]LogSavePackage: Moving 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/NewMap_BuiltData3BF74AB244DCEE6931B111878FA1AFBF.tmp' to 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/NewMap_BuiltData.uasset'
+[2018.09.13-06.53.51:625][448]LogSavePackage: Display: Finished SavePackage E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/NewMap_BuiltData.uasset
+[2018.09.13-06.53.51:634][448]LogFileHelpers: Saving map 'NewMap' took 0.207
+[2018.09.13-06.53.54:010][589]BlueprintLog: New page: Compile player0_controller
+[2018.09.13-06.53.54:036][589]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019123b5cb80, Size=824
+[2018.09.13-06.53.54:036][589]LogUObjectGlobals: Created PersistentFrame Addr=0x000001915505dd00, Size=824, Default__player0_controller_C Function /Engine/Transient.REINST_player0_controller_C_137:ExecuteUbergraph_player0_controller
+[2018.09.13-06.53.54:049][589]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019131e71600, Size=824, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.09.13-06.53.54:215][589]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019111f291a0, Size=4
+[2018.09.13-06.53.54:215][589]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019111f2a618, Size=4
+[2018.09.13-06.53.54:215][589]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019110507e40, Size=4
+[2018.09.13-06.53.54:215][589]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190f79f5eb0, Size=4
+[2018.09.13-06.53.54:215][589]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190aaee5f60, Size=4
+[2018.09.13-06.53.54:215][589]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000191187e96e0, Size=4
+[2018.09.13-06.53.54:658][608]LogSavePackage: Save=40.33ms
+[2018.09.13-06.53.54:658][608]LogSavePackage: Moving 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/player0_controller7005D0024D6FA4838F3FBB9E1C33B44D.tmp' to 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/player0_controller.uasset'
+[2018.09.13-06.53.54:662][608]LogSavePackage: Display: Finished SavePackage E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/player0_controller.uasset
+[2018.09.13-06.53.56:653][726]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001915505dd00, Size=824
+[2018.09.13-06.53.58:248][726]LogSlate: Window 'Save Content' being destroyed
+[2018.09.13-06.53.58:303][726]LogSavePackage: Save=13.58ms
+[2018.09.13-06.53.58:303][726]LogSavePackage: Moving 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/cubecontroller8F44173F4CC4593C6E8C81A605E51DB9.tmp' to 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/cubecontroller.uasset'
+[2018.09.13-06.53.58:307][726]LogSavePackage: Display: Finished SavePackage E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/cubecontroller.uasset
+[2018.09.13-06.53.58:435][726]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.13-06.53.58:497][726]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.13-06.53.58:548][726]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.13-06.53.58:610][726]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.13-06.53.58:666][726]LogSlate: Window 'NuclearMoment - Unreal Editor' being destroyed
+[2018.09.13-06.53.58:904][727]Cmd: QUIT_EDITOR
+[2018.09.13-06.53.58:929][727]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.09.13-06.53.58:942][727]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.13-06.53.58:942][727]LogExit: Preparing to exit.
+[2018.09.13-06.53.59:413][727]LogExit: Editor shut down
+[2018.09.13-06.53.59:422][727]LogExit: Transaction tracking system shut down
+[2018.09.13-06.53.59:424][727]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131e71600, Size=824
+[2018.09.13-06.53.59:424][727]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019155dabd30, Size=80
+[2018.09.13-06.53.59:425][727]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131a25c00, Size=496
+[2018.09.13-06.53.59:429][727]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019131960590, Size=80
+[2018.09.13-06.53.59:431][727]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909f8a37c0, Size=4
+[2018.09.13-06.53.59:431][727]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909f8a37b8, Size=4
+[2018.09.13-06.53.59:433][727]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019137527f40, Size=164
+[2018.09.13-06.53.59:434][727]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190da6835e0, Size=8
+[2018.09.13-06.53.59:561][727]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.09.13-06.53.59:561][727]LogDirectoryWatcher: A directory notification for 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/' was aborted.
+[2018.09.13-06.53.59:561][727]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.09.13-06.53.59:561][727]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.09.13-06.53.59:561][727]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.09.13-06.53.59:561][727]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.09.13-06.53.59:561][727]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.09.13-06.53.59:561][727]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.09.13-06.53.59:657][727]LogExit: Object subsystem successfully closed.
+[2018.09.13-06.53.59:678][727]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.13-06.53.59:681][727]LogD3D11RHI: Shutdown
+[2018.09.13-06.53.59:681][727]LogD3D11RHI: CleanupD3DDevice
+[2018.09.13-06.53.59:684][727]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.13-06.53.59:695][727]LogModuleManager: Shutting down and abandoning module BlueprintGraph (580)
+[2018.09.13-06.53.59:695][727]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (578)
+[2018.09.13-06.53.59:695][727]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.09.13-06.53.59:695][727]LogModuleManager: Shutting down and abandoning module SceneOutliner (574)
+[2018.09.13-06.53.59:695][727]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.09.13-06.53.59:695][727]LogDirectoryWatcher: A directory notification for 'D:/Unreal/UE_4.19/FeaturePacks/' was aborted.
+[2018.09.13-06.53.59:696][727]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.09.13-06.53.59:697][727]LogDirectoryWatcher: A directory notification for 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Collections/' was aborted.
+[2018.09.13-06.53.59:697][727]LogDirectoryWatcher: A directory notification for 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Developers/hpy/Collections/' was aborted.
+[2018.09.13-06.53.59:697][727]LogDirectoryWatcher: A directory notification for 'E:/zuoye/3145/project/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/Collections/' was aborted.
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (564)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.09.13-06.53.59:697][727]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.09.13-06.53.59:698][727]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.09.13-06.53.59:699][727]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.09.13-06.53.59:699][727]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.09.13-06.53.59:699][727]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.09.13-06.53.59:699][727]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.09.13-06.53.59:699][727]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.09.13-06.54.00:602][727]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.09.13-06.54.00:602][727]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.09.13-06.54.00:602][727]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.09.13-06.54.00:602][727]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.09.13-06.54.00:603][727]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.09.13-06.54.00:657][727]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.09.13-06.54.00:657][727]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.09.13-06.54.00:657][727]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.09.13-06.54.00:657][727]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.09.13-06.54.00:657][727]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.09.13-06.54.00:657][727]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.09.13-06.54.00:657][727]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.09.13-06.54.00:657][727]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.09.13-06.54.00:657][727]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.09.13-06.54.00:657][727]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.09.13-06.54.00:661][727]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.09.13-06.54.00:662][727]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.09.13-06.54.00:663][727]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.09.13-06.54.00:762][727]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.09.13-06.54.00:764][727]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.09.13-06.54.00:766][727]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.09.13-06.54.00:768][727]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.09.13-06.54.00:768][727]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.09.13-06.54.00:768][727]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.09.13-06.54.00:768][727]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.09.13-06.54.00:768][727]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.09.13-06.54.00:768][727]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.09.13-06.54.00:768][727]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.09.13-06.54.00:768][727]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.09.13-06.54.00:768][727]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.09.13-06.54.00:768][727]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.09.13-06.54.00:868][727]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.09.13-06.54.00:969][727]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.09.13-06.54.00:969][727]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.09.13-06.54.00:969][727]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.09.13-06.54.00:969][727]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.09.13-06.54.00:969][727]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.09.13-06.54.00:969][727]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.09.13-06.54.00:969][727]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.09.13-06.54.00:969][727]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.09.13-06.54.00:970][727]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.09.13-06.54.00:970][727]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.09.13-06.54.00:971][727]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.09.13-06.54.00:972][727]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.09.13-06.54.00:972][727]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.09.13-06.54.00:972][727]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.09.13-06.54.00:972][727]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.09.13-06.54.00:985][727]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.09.13-06.54.00:985][727]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.09.13-06.54.00:985][727]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.09.13-06.54.00:987][727]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.09.13-06.54.00:993][727]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.09.13-06.54.00:993][727]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.09.13-06.54.00:993][727]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.09.13-06.54.00:994][727]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.09.13-06.54.00:995][727]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.09.13-06.54.00:995][727]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.09.13-06.54.00:995][727]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.09.13-06.54.00:995][727]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.09.13-06.54.00:995][727]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.09.13-06.54.00:995][727]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.09.13-06.54.00:995][727]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.09.13-06.54.00:995][727]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.09.13-06.54.00:996][727]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.09.13-06.54.00:996][727]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.09.13-06.54.00:996][727]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.09.13-06.54.00:996][727]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.09.13-06.54.00:996][727]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.09.13-06.54.00:996][727]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.09.13-06.54.00:996][727]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.09.13-06.54.00:996][727]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.09.13-06.54.00:997][727]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.09.13-06.54.01:084][727]LogDerivedDataCache: Shutdown
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.09.13-06.54.01:084][727]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.09.13-06.54.01:085][727]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.09.13-06.54.01:086][727]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.09.13-06.54.01:086][727]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.09.13-06.54.01:086][727]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B882F7BE0-4E95-7EC1-BDCD-80AA6F0CDE06%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=491832ea43cfe756a6719a87c8fad026%7Cee40bcf89a4d4c5e91cafcb35bed2839%7C7e44242e-39d9-4d32-aa03-c4bfef40e28d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.13-06.54.01:086][727]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B882F7BE0-4E95-7EC1-BDCD-80AA6F0CDE06%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=491832ea43cfe756a6719a87c8fad026%7Cee40bcf89a4d4c5e91cafcb35bed2839%7C7e44242e-39d9-4d32-aa03-c4bfef40e28d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.13-06.54.01:108][727]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.09.13-06.54.01:109][727]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.13-06.54.01:109][727]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.13-06.54.01:109][727]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.13-06.54.01:109][727]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.13-06.54.01:109][727]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.13-06.54.01:109][727]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.13-06.54.01:109][727]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.13-06.54.01:110][727]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.13-06.54.01:110][727]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.13-06.54.01:110][727]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.13-06.54.01:110][727]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.13-06.54.01:110][727]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.13-06.54.01:110][727]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.13-06.54.01:110][727]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.13-06.54.01:110][727]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.13-06.54.01:110][727]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.13-06.54.01:110][727]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.13-06.54.01:110][727]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.13-06.54.01:117][727]LogExit: Exiting.
+[2018.09.13-06.54.01:126][727]Log file closed, 09/13/18 16:54:01
