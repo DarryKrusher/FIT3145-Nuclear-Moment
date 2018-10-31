@@ -1,0 +1,1566 @@
+﻿Log file open, 10/18/18 15:00:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: NuclearMoment
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-484165746) SRandInit(-484165746).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.280102
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.088s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-1DG4IFS (118.139.82.85:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: F:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.18-04.00.55:925][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.18-04.00.55:925][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.18-04.00.55:947][  0]LogInit: Computer: DESKTOP-1DG4IFS
+[2018.10.18-04.00.55:947][  0]LogInit: User: asus
+[2018.10.18-04.00.55:947][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.18-04.00.55:947][  0]LogInit: High frequency timer resolution =2.531246 MHz
+[2018.10.18-04.00.55:947][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.18-04.00.55:947][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.18-04.00.55:948][  0]LogMemory: Process Physical Memory: 274.81 MB used, 274.81 MB peak
+[2018.10.18-04.00.55:948][  0]LogMemory: Process Virtual Memory: 264.71 MB used, 264.71 MB peak
+[2018.10.18-04.00.55:948][  0]LogMemory: Physical Memory: 4255.32 MB used,  11989.48 MB free, 16244.80 MB total
+[2018.10.18-04.00.55:948][  0]LogMemory: Virtual Memory: 4795.32 MB used,  11989.48 MB free, 134217728.00 MB total
+[2018.10.18-04.00.56:346][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.10.18-04.00.56:346][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.10.18-04.00.56:825][  0]LogStreaming: Display: Took  0.480s to EndInitTextLocalization.
+[2018.10.18-04.00.56:825][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.18-04.00.56:878][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.18-04.00.56:878][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.18-04.00.57:082][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.18-04.00.57:789][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.10.18-04.00.57:789][  0]LogD3D11RHI:       6108/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.18-04.00.57:799][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.10.18-04.00.57:799][  0]LogD3D11RHI:       128/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.18-04.00.57:802][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.18-04.00.57:802][  0]LogD3D11RHI:       0/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.18-04.00.57:802][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.18-04.00.57:822][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.18-04.00.57:822][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.18-04.00.57:822][  0]LogWindows: EnumDisplayDevices:
+[2018.10.18-04.00.57:822][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.10.18-04.00.57:822][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.10.18-04.00.57:823][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.10.18-04.00.57:823][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.18-04.00.57:823][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.10.18-04.00.57:823][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.18-04.00.57:823][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.18-04.00.57:823][  0]LogRHI: Texture pool is 4276 MB (70% of 6108 MB)
+[2018.10.18-04.00.58:499][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.10.18-04.00.58:499][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.18-04.00.58:499][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.18-04.00.58:689][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.18-04.00.58:690][  0]LogShaderCompilers: Guid format shader working directory is -49 characters bigger than the processId version (C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Intermediate/Shaders/WorkingDirectory/17292/).
+[2018.10.18-04.00.58:690][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/asus/AppData/Local/Temp/UnrealShaderWorkingDir/EFC3938A48C0E8D2921C1E8405DCA7FA/'.
+[2018.10.18-04.00.58:987][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.18-04.00.59:004][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.18-04.00.59:020][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.18-04.00.59:037][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.18-04.00.59:053][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.18-04.00.59:068][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.18-04.00.59:084][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.18-04.00.59:099][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.18-04.00.59:113][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.18-04.00.59:128][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.18-04.00.59:142][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.18-04.00.59:157][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.18-04.00.59:173][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.10.18-04.00.59:189][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.18-04.00.59:205][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.18-04.00.59:234][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.18-04.00.59:234][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.18-04.00.59:248][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-04.00.59:250][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.18-04.00.59:289][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.18-04.00.59:302][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.18-04.00.59:315][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.18-04.00.59:328][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.18-04.00.59:342][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.18-04.00.59:356][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.18-04.00.59:356][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.18-04.00.59:736][  0]LogXGEController: Cleaning working directory: C:/Users/asus/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.18-04.00.59:736][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.18-04.00.59:737][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.18-04.00.59:737][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.18-04.01.00:521][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.18-04.01.00:586][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/asus/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.18-04.01.00:586][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/asus/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.10.18-04.01.00:586][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.18-04.01.00:586][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.18-04.01.00:586][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.18-04.01.00:586][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.18-04.01.00:607][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.18-04.01.00:623][  0]LogDerivedDataCache: Using Local data cache path C:/Users/asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.18-04.01.00:623][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.18-04.01.00:623][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.18-04.01.00:636][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.18-04.01.00:636][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.18-04.01.00:637][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.18-04.01.00:637][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.18-04.01.00:788][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.10.18-04.01.01:199][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.18-04.01.01:372][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.18-04.01.01:375][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.18-04.01.01:375][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.18-04.01.01:375][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.18-04.01.01:375][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.18-04.01.01:375][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.18-04.01.01:407][  0]LogNetVersion: NuclearMoment , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3518328640)
+[2018.10.18-04.01.01:937][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.096669 seconds
+[2018.10.18-04.01.01:944][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.10.18-04.01.01:944][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.10.18-04.01.01:944][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.18-04.01.03:797][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.18-04.01.03:821][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.18-04.01.04:111][  0]SourceControl: Source control is disabled
+[2018.10.18-04.01.04:111][  0]SourceControl: Source control is disabled
+[2018.10.18-04.01.04:125][  0]SourceControl: Source control is disabled
+[2018.10.18-04.01.04:138][  0]SourceControl: Source control is disabled
+[2018.10.18-04.01.04:552][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.18-04.01.04:679][  0]LogOcInput: OculusInput pre-init called
+[2018.10.18-04.01.04:778][  0]LogEngine: Initializing Engine...
+[2018.10.18-04.01.04:781][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.18-04.01.04:782][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.18-04.01.04:783][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.18-04.01.05:015][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.18-04.01.05:036][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.01.05:158][  0]LogInit: FAudioDevice initialized.
+[2018.10.18-04.01.05:252][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/asus/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.18-04.01.05:263][  0]LogInit: Texture streaming: Enabled
+[2018.10.18-04.01.05:279][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.18-04.01.05:294][  0]LogInit: Transaction tracking system initialized
+[2018.10.18-04.01.05:319][  0]BlueprintLog: New page: Editor Load
+[2018.10.18-04.01.05:407][  0]LocalizationService: Localization service is disabled
+[2018.10.18-04.01.05:497][  0]LogConsoleResponse: Display: 
+[2018.10.18-04.01.05:668][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.18-04.01.05:668][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.18-04.01.05:668][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.18-04.01.05:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.18-04.01.05:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.18-04.01.05:914][  0]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/' took 0.01s
+[2018.10.18-04.01.05:991][  0]SourceControl: Source control is disabled
+[2018.10.18-04.01.05:991][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.18-04.01.05:991][  0]LightingResults: New page: Lighting Build
+[2018.10.18-04.01.05:994][  0]MapCheck: New page: Map Check
+[2018.10.18-04.01.05:994][  0]LightingResults: New page: Lighting Build
+[2018.10.18-04.01.06:195][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.18-04.01.06:211][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.18-04.01.06:223][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.18-04.01.06:278][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.231ms to complete.
+[2018.10.18-04.01.06:278][  0]LogFileHelpers: Loading map 'Template_Default' took 0.287
+[2018.10.18-04.01.06:427][  0]LogCollectionManager: Loaded 0 collections in 0.001529 seconds
+[2018.10.18-04.01.06:474][  0]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/Collections/' took 0.01s
+[2018.10.18-04.01.06:474][  0]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Developers/asus/Collections/' took 0.01s
+[2018.10.18-04.01.06:474][  0]LogFileCache: Scanning file cache for directory 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Collections/' took 0.01s
+[2018.10.18-04.01.06:474][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.18-04.01.06:484][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2452 classes and 558 folders.
+[2018.10.18-04.01.06:491][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.18-04.01.06:531][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.18-04.01.06:536][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.10.18-04.01.06:553][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.18-04.01.06:556][  0]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.18-04.01.06:562][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.18-04.01.06:670][  0]LogRenderer: Reallocating scene render targets to support 804x412 Format 10 NumSamples 1 (Frame:1).
+[2018.10.18-04.01.06:807][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.18-04.01.06:807][  0]LogLoad: (Engine Initialization) Total time: 13.31 seconds
+[2018.10.18-04.01.06:807][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.18-04.01.06:826][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.10.18-04.01.06:854][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.18-04.01.06:915][  1]LogAssetRegistry: Asset discovery search completed in 6.1490 seconds
+[2018.10.18-04.01.06:917][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.18-04.01.06:917][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2018.10.18-04.01.07:837][104]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.18-04.01.10:896][462]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.18-04.01.13:577][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.01.15:059][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6d0ed600, Size=336, Default__BallController_C Function /Game/Andy/blueprint/BallController.BallController_C:ExecuteUbergraph_BallController
+[2018.10.18-04.01.15:062][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6d0ed600, Size=336
+[2018.10.18-04.01.15:062][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a44740700, Size=336, Default__BallController_C Function /Engine/Transient.REINST_BallController_C_5:ExecuteUbergraph_BallController
+[2018.10.18-04.01.15:064][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6cd30280, Size=336, Default__BallController_C Function /Game/Andy/blueprint/BallController.BallController_C:ExecuteUbergraph_BallController
+[2018.10.18-04.01.15:072][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a44707800, Size=120, Default__Bumper_controller_C Function /Game/Andy/blueprint/Bumper_controller.Bumper_controller_C:ExecuteUbergraph_Bumper_controller
+[2018.10.18-04.01.15:074][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a66ce4960, Size=8, Default__Pinballgamemode_C Function /Game/Andy/blueprint/Pinballgamemode.Pinballgamemode_C:ExecuteUbergraph_Pinballgamemode
+[2018.10.18-04.01.15:076][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a445b4800, Size=1288, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.10.18-04.01.15:103][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6d1134c0, Size=288, Default__Flipper_controller_C Function /Game/Andy/blueprint/Flipper_controller.Flipper_controller_C:ExecuteUbergraph_Flipper_controller
+[2018.10.18-04.01.15:109][928]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.10.18-04.01.15:109][928]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/PlungerController.uasset.
+[2018.10.18-04.01.15:109][928]LoadErrors: Error: /Game/Andy/blueprint/PlungerController : Can't find file for asset. /Game/model/SM_Plunger
+[2018.10.18-04.01.15:109][928]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.10.18-04.01.15:110][928]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/PlungerController.uasset.
+[2018.10.18-04.01.15:110][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a4477ed40, Size=164, Default__PlungerController_C Function /Game/Andy/blueprint/PlungerController.PlungerController_C:ExecuteUbergraph_PlungerController
+[2018.10.18-04.01.15:110][928]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.10.18-04.01.15:110][928]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/player0_controller.uasset.
+[2018.10.18-04.01.15:110][928]LoadErrors: Error: /Game/Andy/blueprint/player0_controller : Can't find file for asset. /Game/model/SM_Plunger
+[2018.10.18-04.01.15:111][928]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.10.18-04.01.15:111][928]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/player0_controller.uasset.
+[2018.10.18-04.01.15:112][928]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.10.18-04.01.15:112][928]LoadErrors: Failed to load /Game/model/SM_Plunger.SM_Plunger Referenced by PlugerMesh_GEN_VARIABLE
+[2018.10.18-04.01.15:112][928]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/player0_controller.uasset.
+[2018.10.18-04.01.15:147][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a44707800, Size=120
+[2018.10.18-04.01.15:147][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a3e43ff00, Size=120, Default__Bumper_controller_C Function /Engine/Transient.REINST_Bumper_controller_C_7:ExecuteUbergraph_Bumper_controller
+[2018.10.18-04.01.15:147][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6d1134c0, Size=288
+[2018.10.18-04.01.15:147][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a5d4f6fc0, Size=288, Default__Flipper_controller_C Function /Engine/Transient.REINST_Flipper_controller_C_8:ExecuteUbergraph_Flipper_controller
+[2018.10.18-04.01.15:148][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a4477ed40, Size=164
+[2018.10.18-04.01.15:148][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6d1a2980, Size=164, Default__PlungerController_C Function /Engine/Transient.REINST_PlungerController_C_9:ExecuteUbergraph_PlungerController
+[2018.10.18-04.01.15:148][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a66ce4960, Size=8
+[2018.10.18-04.01.15:148][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a66ce4960, Size=8, Default__Pinballgamemode_C Function /Engine/Transient.REINST_Pinballgamemode_C_10:ExecuteUbergraph_Pinballgamemode
+[2018.10.18-04.01.15:149][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a445b4800, Size=1288
+[2018.10.18-04.01.15:149][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6cdc4800, Size=1288, Default__player0_controller_C Function /Engine/Transient.REINST_player0_controller_C_11:ExecuteUbergraph_player0_controller
+[2018.10.18-04.01.15:179][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c9ea880, Size=120, Default__Bumper_controller_C Function /Game/Andy/blueprint/Bumper_controller.Bumper_controller_C:ExecuteUbergraph_Bumper_controller
+[2018.10.18-04.01.15:181][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a4475ed40, Size=288, Default__Flipper_controller_C Function /Game/Andy/blueprint/Flipper_controller.Flipper_controller_C:ExecuteUbergraph_Flipper_controller
+[2018.10.18-04.01.15:183][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c8c1900, Size=164, Default__PlungerController_C Function /Game/Andy/blueprint/PlungerController.PlungerController_C:ExecuteUbergraph_PlungerController
+[2018.10.18-04.01.15:183][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c897ff0, Size=8, Default__Pinballgamemode_C Function /Game/Andy/blueprint/Pinballgamemode.Pinballgamemode_C:ExecuteUbergraph_Pinballgamemode
+[2018.10.18-04.01.15:192][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c884f00, Size=1288, Default__player0_controller_C Function /Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller
+[2018.10.18-04.01.15:219][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6cfd8fa0, Size=96, Default__cubecontroller_C Function /Game/Andy/blueprint/cubecontroller.cubecontroller_C:ExecuteUbergraph_cubecontroller
+[2018.10.18-04.01.15:222][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6cfd8fa0, Size=96
+[2018.10.18-04.01.15:222][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6cfd8fa0, Size=96, Default__cubecontroller_C Function /Engine/Transient.REINST_cubecontroller_C_18:ExecuteUbergraph_cubecontroller
+[2018.10.18-04.01.15:225][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6cfda9e0, Size=96, Default__cubecontroller_C Function /Game/Andy/blueprint/cubecontroller.cubecontroller_C:ExecuteUbergraph_cubecontroller
+[2018.10.18-04.01.15:228][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c80b780, Size=120, Default__MiniBumper_controller_C Function /Game/Andy/blueprint/Bumper_controller.Bumper_controller_C:ExecuteUbergraph_Bumper_controller
+[2018.10.18-04.01.15:254][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6c80b780, Size=120
+[2018.10.18-04.01.15:254][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c80b780, Size=120, Default__MiniBumper_controller_C Function /Game/Andy/blueprint/Bumper_controller.Bumper_controller_C:ExecuteUbergraph_Bumper_controller
+[2018.10.18-04.01.15:254][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c80ae00, Size=120, Default__MiniBumper_controller_C Function /Game/Andy/blueprint/Bumper_controller.Bumper_controller_C:ExecuteUbergraph_Bumper_controller
+[2018.10.18-04.01.15:267][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c897e68, Size=8, Default__BP_SideWall_C Function /Game/Hihi/BP_SideWall.BP_SideWall_C:ExecuteUbergraph_BP_SideWall
+[2018.10.18-04.01.15:269][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6c897e68, Size=8
+[2018.10.18-04.01.15:269][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c897e68, Size=8, Default__BP_SideWall_C Function /Engine/Transient.REINST_BP_SideWall_C_21:ExecuteUbergraph_BP_SideWall
+[2018.10.18-04.01.15:270][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c8971a8, Size=8, Default__BP_SideWall_C Function /Game/Hihi/BP_SideWall.BP_SideWall_C:ExecuteUbergraph_BP_SideWall
+[2018.10.18-04.01.15:283][928]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.01.15:284][928]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.01.15:284][928]LoadErrors: Error: /Game/Eric/Eric/Wagen_LDR_Font : Can't find file for asset. /Game/Eric/Wagen_LDR
+[2018.10.18-04.01.15:284][928]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.01.15:284][928]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.01.15:285][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c897080, Size=4, Default__EndGame_Scene_C Function /Game/Eric/Eric/EndGame_Scene.EndGame_Scene_C:ExecuteUbergraph_EndGame_Scene
+[2018.10.18-04.01.15:288][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6c897080, Size=4
+[2018.10.18-04.01.15:288][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c897080, Size=4, Default__EndGame_Scene_C Function /Engine/Transient.REINST_EndGame_Scene_C_1:ExecuteUbergraph_EndGame_Scene
+[2018.10.18-04.01.15:289][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c896f40, Size=4, Default__EndGame_Scene_C Function /Game/Eric/Eric/EndGame_Scene.EndGame_Scene_C:ExecuteUbergraph_EndGame_Scene
+[2018.10.18-04.01.15:298][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c878800, Size=208, Default__level_2_C Function /Game/MainLevel/level_2.level_2_C:ExecuteUbergraph_level_2
+[2018.10.18-04.01.15:305][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6c878800, Size=208
+[2018.10.18-04.01.15:306][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c7f3ac0, Size=208, Default__level_2_C Function /Engine/Transient.REINST_level_2_C_24:ExecuteUbergraph_level_2
+[2018.10.18-04.01.15:312][928]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6c7f1fa0, Size=208, Default__level_2_C Function /Game/MainLevel/level_2.level_2_C:ExecuteUbergraph_level_2
+[2018.10.18-04.01.15:332][928]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.01.15:332][928]LoadErrors: Failed to load /Game/Eric/Wagen_LDR.Wagen_LDR Referenced by Wagen_LDR_Font
+[2018.10.18-04.01.15:333][928]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading NULL.
+[2018.10.18-04.01.15:485][928]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.01.15:518][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6d1a2980, Size=164
+[2018.10.18-04.01.15:518][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a5d4f6fc0, Size=288
+[2018.10.18-04.01.15:518][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6cdc4800, Size=1288
+[2018.10.18-04.01.15:518][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a66ce4960, Size=8
+[2018.10.18-04.01.15:518][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a3e43ff00, Size=120
+[2018.10.18-04.01.15:518][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a44740700, Size=336
+[2018.10.18-04.01.15:518][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6cfd8fa0, Size=96
+[2018.10.18-04.01.15:518][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6c80b780, Size=120
+[2018.10.18-04.01.15:518][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6c897e68, Size=8
+[2018.10.18-04.01.15:519][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6c897080, Size=4
+[2018.10.18-04.01.15:519][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6c7f3ac0, Size=208
+[2018.10.18-04.01.15:522][928]Cmd: MAP LOAD FILE="C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/MainLevel/level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.18-04.01.15:522][928]LightingResults: New page: Lighting Build
+[2018.10.18-04.01.15:523][928]LoadErrors: New page: Loading map: level_2.umap
+[2018.10.18-04.01.15:524][928]MapCheck: New page: Map Check
+[2018.10.18-04.01.15:524][928]LightingResults: New page: Lighting Build
+[2018.10.18-04.01.15:560][928]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.18-04.01.15:598][928]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.18-04.01.15:668][928]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.524ms to complete.
+[2018.10.18-04.01.15:668][928]LogFileHelpers: Loading map 'level_2' took 0.147
+[2018.10.18-04.01.22:571][427]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.18-04.01.22:792][428]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.NuclearMoment
+[2018.10.18-04.01.22:792][428]LogTemp: CWD: F:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.10.18-04.01.22:792][428]LogTemp: Initial Dir: F:\UE_4.19
+[2018.10.18-04.01.22:792][428]LogTemp: Env CWD: F:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.10.18-04.01.22:792][428]LogTemp: BranchPath = DESKTOP-1DG4IFS/F/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-1DG4IFS/F/UE_4.19/Engine/Binaries
+[2018.10.18-04.01.22:792][428]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\asus\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.18-04.01.38:558][829]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.18-04.01.38:568][829]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.18-04.01.43:470][404]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.18-04.01.43:487][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.01.43:487][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.01.43:487][404]PIE: New page: PIE session: level_2 (Oct 19, 2018, 2:01:43 AM)
+[2018.10.18-04.01.43:487][404]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.01.43:495][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007530s)
+[2018.10.18-04.01.43:495][404]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.01.43:496][404]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2018.10.18-04.01.43:496][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.008340s)
+[2018.10.18-04.01.43:511][404]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.01.43:521][404]LogInit: FAudioDevice initialized.
+[2018.10.18-04.01.43:623][404]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.01.43:627][404]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.01.43
+[2018.10.18-04.01.43:628][404]LogWorld: Bringing up level for play took: 0.003109
+[2018.10.18-04.01.43:632][404]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.10.18-04.01.43:634][404]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.01.43:636][404]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.01.43:639][404]PIE: Play in editor start time for /Game/MainLevel/UEDPIE_0_level_2 -0.803
+[2018.10.18-04.01.43:639][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.01.43:696][404]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.18-04.01.48:224][885]LogSlate: Took 0.002093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.10.18-04.01.50:529][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.01.50:614][164]LogNet: Browse: /Game/Eric/Eric/MainMenu_level
+[2018.10.18-04.01.50:615][164]LogLoad: LoadMap: /Game/Eric/Eric/MainMenu_level
+[2018.10.18-04.01.50:640][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a144414b0, Size=16, Default__MainMenu_C Function /Game/Eric/Eric/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.10.18-04.01.50:644][164]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a144414b0, Size=16
+[2018.10.18-04.01.50:644][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a144414b0, Size=16, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_2:ExecuteUbergraph_MainMenu
+[2018.10.18-04.01.50:646][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a144414c0, Size=16, Default__MainMenu_C Function /Game/Eric/Eric/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.10.18-04.01.50:648][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a390f9a98, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.01.50:650][164]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a390f9a98, Size=24
+[2018.10.18-04.01.50:650][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a390f9a98, Size=24, Default__MainMenu_level_C Function /Engine/Transient.REINST_MainMenu_level_C_27:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.01.50:651][164]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a390fb400, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.01.50:654][164]LogAudioDerivedData: Display: Building compressed audio format OGG wave 261592__kwahmah-02__camera-sourced-click-noise...
+[2018.10.18-04.01.51:027][164]LogAIModule: Creating AISystem for world MainMenu_level
+[2018.10.18-04.01.51:028][164]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.01.51:030][164]LogWorld: Bringing World /Game/Eric/Eric/UEDPIE_0_MainMenu_level.MainMenu_level up for play (max tick rate 0) at 2018.10.18-15.01.51
+[2018.10.18-04.01.51:030][164]LogWorld: Bringing up level for play took: 0.000708
+[2018.10.18-04.01.51:030][164]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.01.51:031][164]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.01.51:034][164]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.01.51:034][164]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.01.51:034][164]LogLoad: Took 0.419359 seconds to LoadMap(/Game/Eric/Eric/MainMenu_level)
+[2018.10.18-04.02.00:463][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.02.00:468][264]LogNet: Browse: /Game/MainLevel/level_2
+[2018.10.18-04.02.00:468][264]LogLoad: LoadMap: /Game/MainLevel/level_2
+[2018.10.18-04.02.00:482][264]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a390fb400, Size=24
+[2018.10.18-04.02.00:482][264]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a390f9a98, Size=24
+[2018.10.18-04.02.00:483][264]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a144414b0, Size=16
+[2018.10.18-04.02.00:484][264]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.02.00:493][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008819s)
+[2018.10.18-04.02.00:493][264]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.02.00:494][264]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2018.10.18-04.02.00:494][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.010024s)
+[2018.10.18-04.02.00:494][264]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.02.00:498][264]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.02.00
+[2018.10.18-04.02.00:499][264]LogWorld: Bringing up level for play took: 0.003017
+[2018.10.18-04.02.00:499][264]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.02.00:500][264]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.02.00:501][264]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2018.10.18-04.02.00:501][264]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.02.00:502][264]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.02.00:502][264]LogLoad: Took 0.033325 seconds to LoadMap(/Game/MainLevel/UEDPIE_0_level_2)
+[2018.10.18-04.02.40:039][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.02.40:141][812]LogNet: Browse: /Game/MainLevel/level_2
+[2018.10.18-04.02.40:142][812]LogLoad: LoadMap: /Game/MainLevel/level_2
+[2018.10.18-04.02.40:156][812]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.02.40:165][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008445s)
+[2018.10.18-04.02.40:165][812]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.02.40:165][812]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2018.10.18-04.02.40:165][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.009193s)
+[2018.10.18-04.02.40:166][812]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.02.40:169][812]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.02.40
+[2018.10.18-04.02.40:169][812]LogWorld: Bringing up level for play took: 0.002669
+[2018.10.18-04.02.40:170][812]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.02.40:170][812]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.02.40:172][812]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2018.10.18-04.02.40:172][812]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.02.40:172][812]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.02.40:172][812]LogLoad: Took 0.030130 seconds to LoadMap(/Game/MainLevel/UEDPIE_0_level_2)
+[2018.10.18-04.03.07:261][749]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.03.07:277][749]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.03.07:314][749]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.03.10:593][ 88]LogEditorViewport: Clicking on Actor (LMB): MiniBumper_controller_C (MiniBumper_controller2)
+[2018.10.18-04.03.14:577][517]LogEditorViewport: Clicking on Actor (LMB): cubecontroller_C (cubecontroller2)
+[2018.10.18-04.03.15:735][645]LogEditorViewport: Clicking on Actor (LMB): MiniBumper_controller_C (MiniBumper_controller2)
+[2018.10.18-04.03.17:019][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.03.20:573][160]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.18-04.03.20:590][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.03.20:591][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.03.20:591][160]PIE: New page: PIE session: level_2 (Oct 19, 2018, 2:03:20 AM)
+[2018.10.18-04.03.20:591][160]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.03.20:600][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008723s)
+[2018.10.18-04.03.20:600][160]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.03.20:600][160]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2018.10.18-04.03.20:601][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.009741s)
+[2018.10.18-04.03.20:617][160]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.03.20:627][160]LogInit: FAudioDevice initialized.
+[2018.10.18-04.03.20:718][160]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.03.20:722][160]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.03.20
+[2018.10.18-04.03.20:722][160]LogWorld: Bringing up level for play took: 0.002648
+[2018.10.18-04.03.20:724][160]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.03.20:725][160]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.03.20:728][160]PIE: Play in editor start time for /Game/MainLevel/UEDPIE_0_level_2 0.285
+[2018.10.18-04.03.20:728][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.04.15:902][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.04.16:017][875]LogNet: Browse: /Game/Eric/Eric/MainMenu_level
+[2018.10.18-04.04.16:018][875]LogLoad: LoadMap: /Game/Eric/Eric/MainMenu_level
+[2018.10.18-04.04.16:041][875]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.04.16:041][875]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.04.16:041][875]LoadErrors: Error: /Game/Eric/Eric/Wagen_LDR_Font : Can't find file for asset. /Game/Eric/Wagen_LDR
+[2018.10.18-04.04.16:041][875]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.04.16:042][875]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.04.16:049][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6e720820, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.04.16:051][875]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6e720820, Size=24
+[2018.10.18-04.04.16:051][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6e720820, Size=24, Default__MainMenu_level_C Function /Engine/Transient.REINST_MainMenu_level_C_29:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.04.16:052][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6e721b58, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.04.16:060][875]LogAIModule: Creating AISystem for world MainMenu_level
+[2018.10.18-04.04.16:060][875]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.04.16:062][875]LogWorld: Bringing World /Game/Eric/Eric/UEDPIE_0_MainMenu_level.MainMenu_level up for play (max tick rate 0) at 2018.10.18-15.04.16
+[2018.10.18-04.04.16:062][875]LogWorld: Bringing up level for play took: 0.000732
+[2018.10.18-04.04.16:062][875]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.04.16:063][875]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.04.16:065][875]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.04.16:065][875]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.04.16:065][875]LogLoad: Took 0.047438 seconds to LoadMap(/Game/Eric/Eric/MainMenu_level)
+[2018.10.18-04.04.21:215][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.04.21:274][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.04.21:291][384]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.04.21:326][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.04.21:342][384]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6e721b58, Size=24
+[2018.10.18-04.04.21:342][384]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6e720820, Size=24
+[2018.10.18-04.04.29:853][ 88]LogSlate: Window 'Save Content' being destroyed
+[2018.10.18-04.04.30:100][ 88]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6c7f1fa0, Size=208
+[2018.10.18-04.04.30:100][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a511a8b80, Size=208, Default__level_2_C Function /Engine/Transient.REINST_level_2_C_33:ExecuteUbergraph_level_2
+[2018.10.18-04.04.30:108][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a597f91a0, Size=208, Default__level_2_C Function /Game/MainLevel/level_2.level_2_C:ExecuteUbergraph_level_2
+[2018.10.18-04.04.30:295][ 88]LogSavePackage: Save=233.62ms
+[2018.10.18-04.04.30:295][ 88]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/level_2E377A6A7444E5D85F52B129793606DFA.tmp' to 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/MainLevel/level_2.umap'
+[2018.10.18-04.04.30:304][ 88]LogSavePackage: Display: Finished SavePackage C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/MainLevel/level_2.umap
+[2018.10.18-04.04.30:333][ 88]LogFileHelpers: Saving map 'level_2' took 0.437
+[2018.10.18-04.06.37:535][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (nuclearMomentDecoration_Cube_6)
+[2018.10.18-04.06.48:473][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.06.52:517][915]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.06.53:227][915]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.06.53:238][915]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.06.53:250][915]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.18-04.06.53:250][915]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.18-04.06.53:251][915]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-04.06.53:251][915]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.18-04.06.53:277][915]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.10.18-04.06.53:294][915]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.18-04.06.53:927][938]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-04.06.54:069][946]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.18-04.06.54:069][946]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.18-04.06.54:069][946]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.18-04.06.54:152][951]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-04.06.54:330][960]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.18-04.06.54:330][960]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.18-04.06.54:556][972]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.18-04.06.54:662][978]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.18-04.06.54:808][986]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.18-04.06.54:824][987]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.18-04.06.54:839][988]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.18-04.06.55:078][  2]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.18-04.06.55:146][  6]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.18-04.06.55:246][  8]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-04.06.55:307][ 10]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-04.06.55:817][ 59]LogSlate: Window 'decoration_color' being destroyed
+[2018.10.18-04.06.55:822][ 59]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.10.18-04.06.55:822][ 59]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
+[2018.10.18-04.06.55:822][ 59]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.10.18-04.06.55:822][ 59]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.10.18-04.06.55:822][ 59]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.18-04.07.05:857][257]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.05:867][257]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.05:885][259]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.18-04.07.05:885][259]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.18-04.07.05:885][259]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-04.07.05:885][259]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.18-04.07.06:178][290]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.18-04.07.06:194][292]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.18-04.07.06:205][292]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-04.07.06:205][292]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.18-04.07.06:425][316]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.18-04.07.06:441][318]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.18-04.07.06:458][320]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.18-04.07.06:675][345]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.18-04.07.06:957][377]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.18-04.07.06:963][378]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.18-04.07.06:966][378]LogMaterialEditor: Saving and Compiling material decoration_color
+[2018.10.18-04.07.07:600][378]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.18-04.07.07:600][378]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.18-04.07.07:600][378]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-04.07.07:600][378]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-04.07.07:614][378]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.07:651][378]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.18-04.07.07:651][378]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.18-04.07.07:651][378]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-04.07.07:651][378]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.18-04.07.07:679][378]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.07:718][378]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.07:746][378]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a511a8b80, Size=208
+[2018.10.18-04.07.07:754][378]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy decoration_color, compiling. 
+[2018.10.18-04.07.08:779][378]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.18-04.07.08:779][378]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.10.18-04.07.08:779][378]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.10.18-04.07.08:779][378]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.10.18-04.07.08:779][378]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.10.18-04.07.08:779][378]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.10.18-04.07.08:779][378]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.18-04.07.08:780][378]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.18-04.07.08:780][378]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.10.18-04.07.08:780][378]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.10.18-04.07.08:780][378]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.18-04.07.08:780][378]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.18-04.07.08:780][378]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.10.18-04.07.08:780][378]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.18-04.07.08:780][378]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.18-04.07.08:780][378]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.18-04.07.08:780][378]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.18-04.07.08:785][378]TextureStreamingBuild: Display: Compiling optional shaders took 1.037 seconds.
+[2018.10.18-04.07.08:814][378]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.18-04.07.08:814][378]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-04.07.11:166][378]LogSavePackage: Save=11.41ms
+[2018.10.18-04.07.11:166][378]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/decoration_color0D79215E45F30FE82F0AE79F97C93CA9.tmp' to 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Hihi/Assets/material/decoration_color.uasset'
+[2018.10.18-04.07.11:176][378]LogSavePackage: Display: Finished SavePackage C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Hihi/Assets/material/decoration_color.uasset
+[2018.10.18-04.07.11:191][378]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.10.18-04.07.11:191][378]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
+[2018.10.18-04.07.11:191][378]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.10.18-04.07.11:191][378]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.10.18-04.07.11:191][378]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.18-04.07.15:942][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.07.15:943][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.07.15:943][867]PIE: New page: PIE session: level_2 (Oct 19, 2018, 2:07:15 AM)
+[2018.10.18-04.07.15:943][867]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.07.15:950][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007434s)
+[2018.10.18-04.07.15:951][867]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.07.15:951][867]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2018.10.18-04.07.15:951][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.008166s)
+[2018.10.18-04.07.15:965][867]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.07.15:975][867]LogInit: FAudioDevice initialized.
+[2018.10.18-04.07.16:072][867]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.07.16:076][867]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.07.16
+[2018.10.18-04.07.16:076][867]LogWorld: Bringing up level for play took: 0.002716
+[2018.10.18-04.07.16:078][867]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.07.16:079][867]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.07.16:082][867]PIE: Play in editor start time for /Game/MainLevel/UEDPIE_0_level_2 -0.36
+[2018.10.18-04.07.16:082][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.07.18:783][129]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.07.18:798][129]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.07.18:832][129]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.07.23:815][701]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.23:825][701]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.23:844][703]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.18-04.07.23:844][703]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.18-04.07.23:844][703]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-04.07.23:844][703]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.18-04.07.24:136][735]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.18-04.07.24:152][737]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.18-04.07.24:160][738]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-04.07.24:160][738]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.18-04.07.24:371][760]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.18-04.07.24:389][762]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.18-04.07.24:397][763]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.18-04.07.24:628][787]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.18-04.07.24:732][799]LogMaterialEditor: Saving and Compiling material decoration_color
+[2018.10.18-04.07.25:383][799]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.18-04.07.25:383][799]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.18-04.07.25:383][799]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.18-04.07.25:383][799]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.18-04.07.25:383][799]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-04.07.25:383][799]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-04.07.25:397][799]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.25:434][799]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.18-04.07.25:434][799]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.18-04.07.25:434][799]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-04.07.25:434][799]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.18-04.07.25:456][799]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.25:493][799]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.25:533][799]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy decoration_color, compiling. 
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.18-04.07.26:550][799]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.18-04.07.26:554][799]TextureStreamingBuild: Display: Compiling optional shaders took 1.029 seconds.
+[2018.10.18-04.07.28:752][799]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.18-04.07.28:752][799]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-04.07.28:868][799]LogSavePackage: Save=10.64ms
+[2018.10.18-04.07.28:868][799]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/decoration_color7DBDD06049B413CD838DFDBEA6D74EEC.tmp' to 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Hihi/Assets/material/decoration_color.uasset'
+[2018.10.18-04.07.28:877][799]LogSavePackage: Display: Finished SavePackage C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Hihi/Assets/material/decoration_color.uasset
+[2018.10.18-04.07.28:892][799]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.10.18-04.07.28:892][799]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
+[2018.10.18-04.07.28:892][799]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.10.18-04.07.28:892][799]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.10.18-04.07.28:892][799]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.18-04.07.30:391][959]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.18-04.07.30:405][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.07.30:406][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.07.30:406][959]PIE: New page: PIE session: level_2 (Oct 19, 2018, 2:07:30 AM)
+[2018.10.18-04.07.30:406][959]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.07.30:413][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007371s)
+[2018.10.18-04.07.30:414][959]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.07.30:414][959]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.10.18-04.07.30:414][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.008254s)
+[2018.10.18-04.07.30:430][959]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.07.30:438][959]LogInit: FAudioDevice initialized.
+[2018.10.18-04.07.30:528][959]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.07.30:531][959]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.07.30
+[2018.10.18-04.07.30:532][959]LogWorld: Bringing up level for play took: 0.002834
+[2018.10.18-04.07.30:534][959]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.07.30:535][959]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.07.30:538][959]PIE: Play in editor start time for /Game/MainLevel/UEDPIE_0_level_2 0.097
+[2018.10.18-04.07.30:539][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.07.46:726][697]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.07.46:741][697]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.07.46:774][697]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.07.55:685][702]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.55:699][702]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.18-04.07.55:699][702]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.18-04.07.55:699][702]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-04.07.55:699][702]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.18-04.07.55:702][702]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.10.18-04.07.56:409][778]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-04.07.56:452][783]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.18-04.07.56:460][784]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.18-04.07.56:460][784]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.18-04.07.56:518][790]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.56:537][790]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.10.18-04.07.56:616][796]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.18-04.07.56:685][802]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.18-04.07.56:707][804]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.18-04.07.56:933][823]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.18-04.07.56:971][827]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-04.07.56:996][830]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.18-04.07.57:012][832]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.18-04.07.57:173][849]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.18-04.07.57:214][854]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-04.07.57:241][857]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.18-04.07.57:267][860]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.18-04.07.57:574][891]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.57:594][891]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.10.18-04.07.57:621][891]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.18-04.07.57:680][897]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.18-04.07.57:746][905]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.18-04.07.57:772][908]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.18-04.07.57:832][915]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.18-04.07.58:001][930]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-04.07.58:066][936]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.18-04.07.58:095][939]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.18-04.07.58:119][942]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.18-04.07.58:269][959]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.18-04.07.58:329][966]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.18-04.07.58:346][968]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.18-04.07.58:646][996]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.18-04.07.58:876][ 19]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.18-04.07.58:922][ 24]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.18-04.07.58:956][ 28]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.18-04.07.58:979][ 31]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.18-04.07.59:016][ 35]LogMaterialEditor: Saving and Compiling material decoration_color
+[2018.10.18-04.07.59:699][ 35]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.18-04.07.59:699][ 35]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.18-04.07.59:699][ 35]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-04.07.59:699][ 35]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-04.07.59:713][ 35]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.59:751][ 35]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.18-04.07.59:751][ 35]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.18-04.07.59:751][ 35]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.18-04.07.59:751][ 35]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.18-04.07.59:776][ 35]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.59:812][ 35]LogMaterial: Missing cached shader map for material decoration_color, compiling. 
+[2018.10.18-04.07.59:847][ 35]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy decoration_color, compiling. 
+[2018.10.18-04.08.00:894][ 35]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.18-04.08.00:894][ 35]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.10.18-04.08.00:894][ 35]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.10.18-04.08.00:894][ 35]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.10.18-04.08.00:894][ 35]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.10.18-04.08.00:894][ 35]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.10.18-04.08.00:894][ 35]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.18-04.08.00:895][ 35]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.18-04.08.00:895][ 35]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.10.18-04.08.00:895][ 35]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.10.18-04.08.00:895][ 35]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.18-04.08.00:895][ 35]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.18-04.08.00:895][ 35]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.10.18-04.08.00:895][ 35]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.18-04.08.00:895][ 35]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.18-04.08.00:895][ 35]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.18-04.08.00:895][ 35]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.18-04.08.00:899][ 35]TextureStreamingBuild: Display: Compiling optional shaders took 1.059 seconds.
+[2018.10.18-04.08.03:106][ 35]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.18-04.08.03:106][ 35]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-04.08.03:226][ 35]LogSavePackage: Save=12.21ms
+[2018.10.18-04.08.03:226][ 35]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/decoration_colorE37A40494ACBDC49FA6987BA6805999C.tmp' to 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Hihi/Assets/material/decoration_color.uasset'
+[2018.10.18-04.08.03:234][ 35]LogSavePackage: Display: Finished SavePackage C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Hihi/Assets/material/decoration_color.uasset
+[2018.10.18-04.08.03:249][ 35]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.10.18-04.08.03:249][ 35]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
+[2018.10.18-04.08.03:249][ 35]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.10.18-04.08.03:249][ 35]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.10.18-04.08.03:249][ 35]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.18-04.08.05:662][298]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.18-04.08.05:677][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.08.05:677][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.08.05:678][298]PIE: New page: PIE session: level_2 (Oct 19, 2018, 2:08:05 AM)
+[2018.10.18-04.08.05:678][298]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.08.05:685][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007868s)
+[2018.10.18-04.08.05:686][298]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.08.05:686][298]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2018.10.18-04.08.05:686][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.008846s)
+[2018.10.18-04.08.05:702][298]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.08.05:710][298]LogInit: FAudioDevice initialized.
+[2018.10.18-04.08.05:798][298]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.08.05:801][298]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.08.05
+[2018.10.18-04.08.05:802][298]LogWorld: Bringing up level for play took: 0.002731
+[2018.10.18-04.08.05:804][298]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.08.05:805][298]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.08.05:809][298]PIE: Play in editor start time for /Game/MainLevel/UEDPIE_0_level_2 -0.633
+[2018.10.18-04.08.05:809][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.08.10:173][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.08.10:188][744]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.08.10:225][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.09.00:468][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-04.18.51:998][483]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.18-04.18.52:014][483]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.18.52:014][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.18.52:014][483]PIE: New page: PIE session: level_2 (Oct 19, 2018, 2:18:52 AM)
+[2018.10.18-04.18.52:015][483]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.18.52:023][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008114s)
+[2018.10.18-04.18.52:023][483]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.18.52:024][483]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.10.18-04.18.52:024][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.009192s)
+[2018.10.18-04.18.52:040][483]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.18.52:049][483]LogInit: FAudioDevice initialized.
+[2018.10.18-04.18.52:135][483]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.18.52:139][483]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.18.52
+[2018.10.18-04.18.52:139][483]LogWorld: Bringing up level for play took: 0.003107
+[2018.10.18-04.18.52:142][483]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.18.52:143][483]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.18.52:146][483]PIE: Play in editor start time for /Game/MainLevel/UEDPIE_0_level_2 -0.296
+[2018.10.18-04.18.52:146][483]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.18.59:829][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.18.59:926][252]LogNet: Browse: /Game/Eric/Eric/MainMenu_level
+[2018.10.18-04.18.59:929][252]LogLoad: LoadMap: /Game/Eric/Eric/MainMenu_level
+[2018.10.18-04.18.59:952][252]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.18.59:952][252]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.18.59:953][252]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.18.59:953][252]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.18.59:960][252]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a54b73058, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.18.59:962][252]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a54b73058, Size=24
+[2018.10.18-04.18.59:962][252]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a54b73058, Size=24, Default__MainMenu_level_C Function /Engine/Transient.REINST_MainMenu_level_C_35:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.18.59:963][252]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a598bf5f8, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.18.59:988][252]LogAIModule: Creating AISystem for world MainMenu_level
+[2018.10.18-04.18.59:988][252]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.18.59:990][252]LogWorld: Bringing World /Game/Eric/Eric/UEDPIE_0_MainMenu_level.MainMenu_level up for play (max tick rate 0) at 2018.10.18-15.18.59
+[2018.10.18-04.18.59:990][252]LogWorld: Bringing up level for play took: 0.000514
+[2018.10.18-04.18.59:990][252]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.18.59:991][252]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.18.59:992][252]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.18.59:992][252]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.18.59:993][252]LogLoad: Took 0.064791 seconds to LoadMap(/Game/Eric/Eric/MainMenu_level)
+[2018.10.18-04.19.05:179][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.19.05:295][781]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.19.05:301][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.19.05:333][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.19.05:347][781]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a598bf5f8, Size=24
+[2018.10.18-04.19.05:347][781]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a54b73058, Size=24
+[2018.10.18-04.22.11:098][856]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.18-04.22.11:114][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.22.11:114][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.22.11:114][856]PIE: New page: PIE session: level_2 (Oct 19, 2018, 2:22:11 AM)
+[2018.10.18-04.22.11:114][856]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.22.11:122][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007891s)
+[2018.10.18-04.22.11:123][856]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.22.11:123][856]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.10.18-04.22.11:123][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.008770s)
+[2018.10.18-04.22.11:142][856]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.22.11:151][856]LogInit: FAudioDevice initialized.
+[2018.10.18-04.22.11:242][856]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.22.11:246][856]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.22.11
+[2018.10.18-04.22.11:247][856]LogWorld: Bringing up level for play took: 0.003117
+[2018.10.18-04.22.11:249][856]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.22.11:250][856]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.22.11:254][856]PIE: Play in editor start time for /Game/MainLevel/UEDPIE_0_level_2 0.812
+[2018.10.18-04.22.11:254][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.22.18:341][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.22.18:450][563]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.22.18:455][563]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.22.18:485][563]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.22.19:988][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (nuclearMomentDecoration_Cube_4)
+[2018.10.18-04.22.21:831][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.23.11:792][394]MapCheck: New page: Map Check
+[2018.10.18-04.23.11:811][394]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.18-04.23.11:811][394]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.18-04.23.11:899][394]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.18-04.23.11:905][394]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-04.23.11:905][394]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Flipper, compiling. 
+[2018.10.18-04.23.11:911][394]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Pinball, compiling. 
+[2018.10.18-04.23.11:920][394]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BlueBase_color_Inst, compiling. 
+[2018.10.18-04.23.11:927][394]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Ground, compiling. 
+[2018.10.18-04.23.11:932][394]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.10.18-04.23.11:939][394]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.18-04.23.11:939][394]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.18-04.23.11:939][394]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-04.23.11:939][394]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.10.18-04.23.11:946][394]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy decoration_color, compiling. 
+[2018.10.18-04.23.12:687][394]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.18-04.23.12:687][394]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.18-04.23.12:687][394]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-04.23.12:687][394]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-04.23.12:687][394]TextureStreamingBuild: Display: Compiling optional shaders took 0.824 seconds.
+[2018.10.18-04.23.12:696][394]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2018.10.18-04.23.12:704][394]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2018.10.18-04.23.12:717][394]LightingResults: New page: Lighting Build - Oct 19, 2018, 2:23:12 AM
+[2018.10.18-04.23.12:760][394]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.18-04.23.12:908][394]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.18-04.23.12:925][394]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.18-04.23.13:450][394]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.18-04.23.13:450][394]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17292
+[2018.10.18-04.23.16:004][394]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.18-04.23.16:004][394]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.18-04.23.16:004][394]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.18-04.23.16:004][394]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.18-04.23.16:004][394]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.18-04.23.16:005][394]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.18-04.23.16:118][394]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.18-04.23.16:118][394]MapCheck: New page: level_2 - Oct 19, 2018, 2:23:16 AM
+[2018.10.18-04.23.16:119][394]MapCheck: Warning: Bumper_controller11 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.16:119][394]MapCheck: Warning: Bumper_controller4_321 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.16:119][394]MapCheck: Warning: Bumper_controller5_399 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.16:120][394]MapCheck: Warning: Bumper_controller7_476 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.16:120][394]MapCheck: Warning: Bumper_controller9_544 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.16:120][394]MapCheck: Warning: Bumper_controller_202 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.16:120][394]MapCheck: Warning: Bumper_controller10 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.16:120][394]MapCheck: Warning: Bumper_controller12 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.16:120][394]MapCheck: Warning: MiniBumper_controller4_803 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.16:120][394]MapCheck: Warning: MiniBumper_controller2_453 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.16:196][394]MapCheck: Map check complete: 0 Error(s), 10 Warning(s), took 79.051ms to complete.
+[2018.10.18-04.23.16:220][394]LogEditorBuildUtils: Build time 0:04
+[2018.10.18-04.23.16:331][395]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer decoration_color, compiling. 
+[2018.10.18-04.23.16:339][395]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer decoration_color, compiling. 
+[2018.10.18-04.23.16:354][395]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.18-04.23.20:009][483]Job is a success!
+[2018.10.18-04.23.20:106][484]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.025s
+[2018.10.18-04.23.20:106][484]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.18-04.23.20:106][484]LogVolumetricLightmapImport:      BrickData 585x5x5 = 0.5Mb
+[2018.10.18-04.23.20:106][484]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.18-04.23.20:106][484]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2018.10.18-04.23.20:106][484]LogVolumetricLightmapImport:          1: 5.1% covering 9.4% of volume
+[2018.10.18-04.23.20:106][484]LogVolumetricLightmapImport:          2: 94.0% covering 2.7% of volume
+[2018.10.18-04.23.20:277][484]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.10.18-04.23.20:277][484]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.10.18-04.23.20:277][484]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.10.18-04.23.20:277][484]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.10.18-04.23.20:277][484]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.10.18-04.23.20:277][484]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.10.18-04.23.20:322][484]Lightmass on DESKTOP-1DG4IFS: 1.56 sec total, 152 ms importing, 5 ms setup, 504 ms photons, 884 ms processing, 0 ms extra exporting [22/22 mappings]. Threads: 6.02 sec total, 1.59 sec processing.
+[2018.10.18-04.23.20:362][484]LogStaticLightingSystem: Illumination: 7.62 sec (132 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.10.18-04.23.20:362][484]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (0.5 MB streaming, 2.0 MB non-streaming), 6 textures
+[2018.10.18-04.23.20:362][484]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.10.18-04.23.21:011][484]DumpUnbuiltLightIteractions
+[2018.10.18-04.23.21:011][484]Lights with unbuilt interactions: 0
+[2018.10.18-04.23.21:011][484]
+[2018.10.18-04.23.21:011][484]Primitives with unbuilt interactions: 0
+[2018.10.18-04.23.21:103][485]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.18-04.23.21:103][485]MapCheck: New page: level_2 - Oct 19, 2018, 2:23:21 AM
+[2018.10.18-04.23.21:105][485]MapCheck: Warning: Bumper_controller11 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.21:105][485]MapCheck: Warning: Bumper_controller4_321 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.21:105][485]MapCheck: Warning: Bumper_controller5_399 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.21:105][485]MapCheck: Warning: Bumper_controller7_476 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.21:105][485]MapCheck: Warning: Bumper_controller9_544 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.21:105][485]MapCheck: Warning: Bumper_controller_202 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.21:105][485]MapCheck: Warning: Bumper_controller10 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.21:105][485]MapCheck: Warning: Bumper_controller12 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.21:106][485]MapCheck: Warning: MiniBumper_controller4_803 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.21:106][485]MapCheck: Warning: MiniBumper_controller2_453 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.21:185][485]MapCheck: Map check complete: 0 Error(s), 10 Warning(s), took 82.058ms to complete.
+[2018.10.18-04.23.25:333][842]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-04.23.25:342][842]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-04.23.48:230][319]MapCheck: New page: Map Check
+[2018.10.18-04.23.48:249][319]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.18-04.23.48:250][319]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.18-04.23.48:302][319]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.18-04.23.48:308][319]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Flipper, compiling. 
+[2018.10.18-04.23.48:313][319]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Pinball, compiling. 
+[2018.10.18-04.23.48:318][319]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.18-04.23.48:319][319]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-04.23.48:319][319]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-04.23.48:319][319]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BlueBase_color_Inst, compiling. 
+[2018.10.18-04.23.48:326][319]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Ground, compiling. 
+[2018.10.18-04.23.48:331][319]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2018.10.18-04.23.48:337][319]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.10.18-04.23.48:343][319]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy decoration_color, compiling. 
+[2018.10.18-04.23.49:091][319]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.18-04.23.49:092][319]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.18-04.23.49:092][319]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.18-04.23.49:092][319]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.18-04.23.49:092][319]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.18-04.23.49:092][319]TextureStreamingBuild: Display: Compiling optional shaders took 0.795 seconds.
+[2018.10.18-04.23.49:096][319]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2018.10.18-04.23.49:105][319]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2018.10.18-04.23.49:116][319]LightingResults: New page: Lighting Build - Oct 19, 2018, 2:23:49 AM
+[2018.10.18-04.23.49:129][319]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.18-04.23.49:136][319]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.18-04.23.49:136][319]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.18-04.23.49:146][319]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.18-04.23.49:146][319]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17292
+[2018.10.18-04.23.53:689][319]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.10.18-04.23.53:689][319]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.18-04.23.53:689][319]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.18-04.23.53:689][319]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.18-04.23.53:689][319]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.18-04.23.53:689][319]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.18-04.23.53:764][319]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.18-04.23.53:764][319]MapCheck: New page: level_2 - Oct 19, 2018, 2:23:53 AM
+[2018.10.18-04.23.53:765][319]MapCheck: Warning: Bumper_controller11 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.53:765][319]MapCheck: Warning: Bumper_controller4_321 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.53:765][319]MapCheck: Warning: Bumper_controller5_399 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.53:765][319]MapCheck: Warning: Bumper_controller7_476 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.53:765][319]MapCheck: Warning: Bumper_controller9_544 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.53:765][319]MapCheck: Warning: Bumper_controller_202 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.53:765][319]MapCheck: Warning: Bumper_controller10 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.53:765][319]MapCheck: Warning: Bumper_controller12 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.53:765][319]MapCheck: Warning: MiniBumper_controller4_803 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.53:765][319]MapCheck: Warning: MiniBumper_controller2_453 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.53:841][319]MapCheck: Map check complete: 0 Error(s), 10 Warning(s), took 78.073ms to complete.
+[2018.10.18-04.23.53:865][319]LogEditorBuildUtils: Build time 0:05
+[2018.10.18-04.23.56:236][401]Job is a success!
+[2018.10.18-04.23.56:333][402]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2018.10.18-04.23.56:334][402]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.18-04.23.56:334][402]LogVolumetricLightmapImport:      BrickData 585x5x5 = 0.5Mb
+[2018.10.18-04.23.56:334][402]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.18-04.23.56:334][402]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2018.10.18-04.23.56:334][402]LogVolumetricLightmapImport:          1: 5.1% covering 9.4% of volume
+[2018.10.18-04.23.56:334][402]LogVolumetricLightmapImport:          2: 94.0% covering 2.7% of volume
+[2018.10.18-04.23.56:497][402]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.10.18-04.23.56:497][402]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.10.18-04.23.56:497][402]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.10.18-04.23.56:497][402]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.10.18-04.23.56:497][402]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.10.18-04.23.56:498][402]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.10.18-04.23.56:542][402]Lightmass on DESKTOP-1DG4IFS: 1.50 sec total, 136 ms importing, 5 ms setup, 489 ms photons, 851 ms processing, 0 ms extra exporting [22/22 mappings]. Threads: 5.79 sec total, 1.48 sec processing.
+[2018.10.18-04.23.56:556][402]LogStaticLightingSystem: Illumination: 7.41 sec (124 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.10.18-04.23.56:556][402]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (0.5 MB streaming, 2.0 MB non-streaming), 6 textures
+[2018.10.18-04.23.56:556][402]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.10.18-04.23.56:695][402]DumpUnbuiltLightIteractions
+[2018.10.18-04.23.56:695][402]Lights with unbuilt interactions: 0
+[2018.10.18-04.23.56:695][402]
+[2018.10.18-04.23.56:695][402]Primitives with unbuilt interactions: 0
+[2018.10.18-04.23.56:755][403]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.18-04.23.56:755][403]MapCheck: New page: level_2 - Oct 19, 2018, 2:23:56 AM
+[2018.10.18-04.23.56:757][403]MapCheck: Warning: Bumper_controller11 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.56:758][403]MapCheck: Warning: Bumper_controller4_321 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.56:758][403]MapCheck: Warning: Bumper_controller5_399 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.56:758][403]MapCheck: Warning: Bumper_controller7_476 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.56:758][403]MapCheck: Warning: Bumper_controller9_544 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.56:758][403]MapCheck: Warning: Bumper_controller_202 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.56:758][403]MapCheck: Warning: Bumper_controller10 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.56:758][403]MapCheck: Warning: Bumper_controller12 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.56:758][403]MapCheck: Warning: MiniBumper_controller4_803 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.56:758][403]MapCheck: Warning: MiniBumper_controller2_453 Static mesh actor has NULL StaticMesh property 
+[2018.10.18-04.23.56:833][403]MapCheck: Map check complete: 0 Error(s), 10 Warning(s), took 78.635ms to complete.
+[2018.10.18-04.24.00:488][718]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-04.24.00:498][718]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-04.24.02:461][921]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.18-04.24.02:476][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.24.02:476][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.24.02:476][921]PIE: New page: PIE session: level_2 (Oct 19, 2018, 2:24:02 AM)
+[2018.10.18-04.24.02:476][921]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.24.02:484][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007592s)
+[2018.10.18-04.24.02:484][921]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.24.02:484][921]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2018.10.18-04.24.02:485][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.008422s)
+[2018.10.18-04.24.02:501][921]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.24.02:512][921]LogInit: FAudioDevice initialized.
+[2018.10.18-04.24.02:601][921]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.24.02:604][921]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.24.02
+[2018.10.18-04.24.02:604][921]LogWorld: Bringing up level for play took: 0.002494
+[2018.10.18-04.24.02:606][921]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.24.02:607][921]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.24.02:611][921]PIE: Play in editor start time for /Game/MainLevel/UEDPIE_0_level_2 0.168
+[2018.10.18-04.24.02:611][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.24.06:254][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.24.06:270][284]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.24.06:303][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.24.10:552][511]LogSlate: Window 'Save Content' being destroyed
+[2018.10.18-04.24.10:782][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a597f91a0, Size=208
+[2018.10.18-04.24.10:782][511]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a50dd41e0, Size=208, Default__level_2_C Function /Engine/Transient.REINST_level_2_C_39:ExecuteUbergraph_level_2
+[2018.10.18-04.24.10:788][511]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a75df49c0, Size=208, Default__level_2_C Function /Game/MainLevel/level_2.level_2_C:ExecuteUbergraph_level_2
+[2018.10.18-04.24.10:963][511]LogSavePackage: Save=217.87ms
+[2018.10.18-04.24.10:963][511]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/level_2971AAFA94506C8749FA540BFFB2318A5.tmp' to 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/MainLevel/level_2.umap'
+[2018.10.18-04.24.10:971][511]LogSavePackage: Display: Finished SavePackage C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/MainLevel/level_2.umap
+[2018.10.18-04.24.10:998][511]LogFileHelpers: Saving map 'level_2' took 0.412
+[2018.10.18-04.24.11:116][511]LogSavePackage: Save=50.62ms
+[2018.10.18-04.24.11:116][511]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/level_2_BuiltData912D936346CA60E6FE0EB68F368B1146.tmp' to 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/MainLevel/level_2_BuiltData.uasset'
+[2018.10.18-04.24.11:125][511]LogSavePackage: Display: Finished SavePackage C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/MainLevel/level_2_BuiltData.uasset
+[2018.10.18-04.24.15:342][878]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a50dd41e0, Size=208
+[2018.10.18-04.24.15:449][878]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a75df49c0, Size=208
+[2018.10.18-04.24.15:449][878]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a75df49c0, Size=208, Default__level_2_C Function /Engine/Transient.REINST_level_2_C_43:ExecuteUbergraph_level_2
+[2018.10.18-04.24.15:456][878]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a50dd42c0, Size=208, Default__level_2_C Function /Game/MainLevel/level_2.level_2_C:ExecuteUbergraph_level_2
+[2018.10.18-04.24.15:654][878]LogSavePackage: Save=245.05ms
+[2018.10.18-04.24.15:654][878]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/level_28ED6FA25477D67A4E954EDBE52C41898.tmp' to 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/MainLevel/level_2.umap'
+[2018.10.18-04.24.15:664][878]LogSavePackage: Display: Finished SavePackage C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/MainLevel/level_2.umap
+[2018.10.18-04.24.15:803][878]LogSavePackage: Save=47.52ms
+[2018.10.18-04.24.15:803][878]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/level_2_BuiltData2A2F11C940C996A77C5C749C4AC22665.tmp' to 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/MainLevel/level_2_BuiltData.uasset'
+[2018.10.18-04.24.15:809][878]LogSavePackage: Display: Finished SavePackage C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/MainLevel/level_2_BuiltData.uasset
+[2018.10.18-04.24.35:045][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.24.35:136][134]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.18-04.24.35:152][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.24.35:152][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.24.35:152][134]PIE: New page: PIE session: level_2 (Oct 19, 2018, 2:24:35 AM)
+[2018.10.18-04.24.35:152][134]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.24.35:161][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009015s)
+[2018.10.18-04.24.35:162][134]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.24.35:162][134]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2018.10.18-04.24.35:162][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.009887s)
+[2018.10.18-04.24.35:174][134]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a75df49c0, Size=208
+[2018.10.18-04.24.35:181][134]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.24.35:188][134]LogInit: FAudioDevice initialized.
+[2018.10.18-04.24.35:281][134]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.24.35:284][134]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.24.35
+[2018.10.18-04.24.35:284][134]LogWorld: Bringing up level for play took: 0.002248
+[2018.10.18-04.24.35:286][134]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.24.35:287][134]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.24.35:291][134]PIE: Play in editor start time for /Game/MainLevel/UEDPIE_0_level_2 0.849
+[2018.10.18-04.24.35:292][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.24.54:378][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.24.54:437][260]LogNet: Browse: /Game/Eric/Eric/MainMenu_level
+[2018.10.18-04.24.54:438][260]LogLoad: LoadMap: /Game/Eric/Eric/MainMenu_level
+[2018.10.18-04.24.54:460][260]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.24.54:460][260]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.24.54:460][260]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.24.54:461][260]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.24.54:467][260]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a54b70d60, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.24.54:469][260]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a54b70d60, Size=24
+[2018.10.18-04.24.54:469][260]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a54b70d60, Size=24, Default__MainMenu_level_C Function /Engine/Transient.REINST_MainMenu_level_C_45:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.24.54:470][260]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a54b72fb0, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.24.54:477][260]LogAIModule: Creating AISystem for world MainMenu_level
+[2018.10.18-04.24.54:478][260]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.24.54:479][260]LogWorld: Bringing World /Game/Eric/Eric/UEDPIE_0_MainMenu_level.MainMenu_level up for play (max tick rate 0) at 2018.10.18-15.24.54
+[2018.10.18-04.24.54:479][260]LogWorld: Bringing up level for play took: 0.000591
+[2018.10.18-04.24.54:479][260]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.24.54:480][260]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.24.54:482][260]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.24.54:482][260]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.24.54:482][260]LogLoad: Took 0.044491 seconds to LoadMap(/Game/Eric/Eric/MainMenu_level)
+[2018.10.18-04.24.55:880][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.24.55:987][419]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.24.55:995][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.24.56:024][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.24.56:040][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a54b72fb0, Size=24
+[2018.10.18-04.24.56:040][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a54b70d60, Size=24
+[2018.10.18-04.25.24:194][620]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.18-04.25.24:334][621]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.NuclearMoment
+[2018.10.18-04.25.24:334][621]LogTemp: CWD: F:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.10.18-04.25.24:334][621]LogTemp: Initial Dir: F:\UE_4.19
+[2018.10.18-04.25.24:334][621]LogTemp: Env CWD: F:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.10.18-04.25.24:334][621]LogTemp: BranchPath = DESKTOP-1DG4IFS/F/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-1DG4IFS/F/UE_4.19/Engine/Binaries
+[2018.10.18-04.25.24:334][621]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\asus\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.18-04.25.46:273][714]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.18-04.25.46:281][714]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.18-04.25.49:748][ 47]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.10.18-04.25.49:998][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a9bfdc170, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.18-04.25.49:999][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a9bfdc168, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.18-04.25.50:548][ 48]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.18-04.26.40:376][359]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.18-04.26.40:511][360]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.NuclearMoment
+[2018.10.18-04.26.40:511][360]LogTemp: CWD: F:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.10.18-04.26.40:511][360]LogTemp: Initial Dir: F:\UE_4.19
+[2018.10.18-04.26.40:511][360]LogTemp: Env CWD: F:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.10.18-04.26.40:511][360]LogTemp: BranchPath = DESKTOP-1DG4IFS/F/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-1DG4IFS/F/UE_4.19/Engine/Binaries
+[2018.10.18-04.26.40:511][360]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\asus\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.18-04.26.52:606][739]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.18-04.26.52:611][739]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.18-04.27.22:524][117]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.18-04.27.22:543][117]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.27.22:544][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.27.22:544][117]PIE: New page: PIE session: level_2 (Oct 19, 2018, 2:27:22 AM)
+[2018.10.18-04.27.22:544][117]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.27.22:551][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007417s)
+[2018.10.18-04.27.22:552][117]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.27.22:552][117]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2018.10.18-04.27.22:552][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.008188s)
+[2018.10.18-04.27.22:583][117]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.27.22:592][117]LogInit: FAudioDevice initialized.
+[2018.10.18-04.27.22:686][117]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.27.22:689][117]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.27.22
+[2018.10.18-04.27.22:690][117]LogWorld: Bringing up level for play took: 0.003151
+[2018.10.18-04.27.22:692][117]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.27.22:693][117]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.27.22:698][117]PIE: Play in editor start time for /Game/MainLevel/UEDPIE_0_level_2 0.256
+[2018.10.18-04.27.22:698][117]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.27.23:575][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.27.23:591][192]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.27.23:641][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.27.29:076][730]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.27.29:076][730]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.27.29:076][730]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.27.29:077][730]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.27.29:083][730]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027ae70cd810, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.27.29:085][730]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027ae70cd810, Size=24
+[2018.10.18-04.27.29:085][730]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027ae70cd810, Size=24, Default__MainMenu_level_C Function /Engine/Transient.REINST_MainMenu_level_C_59:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.27.29:087][730]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027ae70cddb0, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.27.29:092][730]LogAIModule: Creating AISystem for world MainMenu_level
+[2018.10.18-04.27.29:117][730]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027ae70cd810, Size=24
+[2018.10.18-04.27.30:712][730]LogSlate: Window 'Save Content' being destroyed
+[2018.10.18-04.27.30:723][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/Eric/MainMenu" FILE="C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/MainMenu.uasset" SILENT=true
+[2018.10.18-04.27.30:819][730]LogSavePackage: Save=22.58ms
+[2018.10.18-04.27.30:819][730]LogSavePackage: Moving 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Saved/MainMenu7685D4234923A5F6F0CD4692414AA9E9.tmp' to 'C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/MainMenu.uasset'
+[2018.10.18-04.27.30:827][730]LogSavePackage: Display: Finished SavePackage C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/MainMenu.uasset
+[2018.10.18-04.27.30:829][730]Cmd: MAP LOAD FILE="C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/MainMenu_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.18-04.27.30:829][730]LightingResults: New page: Lighting Build
+[2018.10.18-04.27.30:829][730]LoadErrors: New page: Loading map: MainMenu_level.umap
+[2018.10.18-04.27.30:869][730]MapCheck: New page: Map Check
+[2018.10.18-04.27.30:869][730]LightingResults: New page: Lighting Build
+[2018.10.18-04.27.30:890][730]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a50dd42c0, Size=208
+[2018.10.18-04.27.30:895][730]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.18-04.27.30:949][730]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.18-04.27.31:027][730]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.942ms to complete.
+[2018.10.18-04.27.31:027][730]LogFileHelpers: Loading map 'MainMenu_level' took 0.200
+[2018.10.18-04.27.31:775][806]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.18-04.27.31:795][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel' has LevelScriptBlueprint '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level' with GeneratedClass '/Game/Eric/Eric/MainMenu_level.MainMenu_level_C' with ClassGeneratedBy '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level'
+[2018.10.18-04.27.31:795][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.27.31:795][806]PIE: New page: PIE session: MainMenu_level (Oct 19, 2018, 2:27:31 AM)
+[2018.10.18-04.27.31:795][806]LogPlayLevel: Creating play world package: /Game/Eric/Eric/UEDPIE_0_MainMenu_level
+[2018.10.18-04.27.31:796][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000830s)
+[2018.10.18-04.27.31:797][806]LogAIModule: Creating AISystem for world MainMenu_level
+[2018.10.18-04.27.31:797][806]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2018.10.18-04.27.31:797][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Eric/Eric/MainMenu_level.MainMenu_level to /Game/Eric/Eric/UEDPIE_0_MainMenu_level.MainMenu_level (0.001599s)
+[2018.10.18-04.27.31:822][806]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.27.31:830][806]LogInit: FAudioDevice initialized.
+[2018.10.18-04.27.31:927][806]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.27.31:928][806]LogWorld: Bringing World /Game/Eric/Eric/UEDPIE_0_MainMenu_level.MainMenu_level up for play (max tick rate 0) at 2018.10.18-15.27.31
+[2018.10.18-04.27.31:929][806]LogWorld: Bringing up level for play took: 0.000477
+[2018.10.18-04.27.31:930][806]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.27.31:934][806]PIE: Play in editor start time for /Game/Eric/Eric/UEDPIE_0_MainMenu_level -0.508
+[2018.10.18-04.27.31:935][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel' has LevelScriptBlueprint '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level' with GeneratedClass '/Game/Eric/Eric/MainMenu_level.MainMenu_level_C' with ClassGeneratedBy '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level'
+[2018.10.18-04.27.52:410][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.27.52:540][186]LogRenderer: Reallocating scene render targets to support 1536x800 Format 10 NumSamples 1 (Frame:1382).
+[2018.10.18-04.28.02:498][ 36]LogNet: Browse: /Game/MainLevel/level_2
+[2018.10.18-04.28.02:498][ 36]LogLoad: LoadMap: /Game/MainLevel/level_2
+[2018.10.18-04.28.02:581][ 36]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.10.18-04.28.02:581][ 36]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/PlungerController.uasset.
+[2018.10.18-04.28.02:581][ 36]LoadErrors: Error: /Game/Andy/blueprint/PlungerController : Can't find file for asset. /Game/model/SM_Plunger
+[2018.10.18-04.28.02:581][ 36]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.10.18-04.28.02:582][ 36]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/PlungerController.uasset.
+[2018.10.18-04.28.02:650][ 36]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027aba158e20, Size=208, Default__level_2_C Function /Game/MainLevel/level_2.level_2_C:ExecuteUbergraph_level_2
+[2018.10.18-04.28.02:657][ 36]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027aba158e20, Size=208
+[2018.10.18-04.28.02:657][ 36]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027aba158e20, Size=208, Default__level_2_C Function /Engine/Transient.REINST_level_2_C_61:ExecuteUbergraph_level_2
+[2018.10.18-04.28.02:664][ 36]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027ad8ab9b40, Size=208, Default__level_2_C Function /Game/MainLevel/level_2.level_2_C:ExecuteUbergraph_level_2
+[2018.10.18-04.28.02:736][ 36]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.28.02:736][ 36]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.28.02:751][ 36]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.28.02
+[2018.10.18-04.28.02:751][ 36]LogWorld: Bringing up level for play took: 0.014033
+[2018.10.18-04.28.02:752][ 36]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.28.02:753][ 36]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2018.10.18-04.28.02:753][ 36]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2018.10.18-04.28.02:754][ 36]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.28.02:755][ 36]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.28.02:755][ 36]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.28.02:755][ 36]LogLoad: Took 0.257488 seconds to LoadMap(/Game/MainLevel/level_2)
+[2018.10.18-04.28.47:100][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.28.47:197][227]LogNet: Browse: /Game/MainLevel/level_2
+[2018.10.18-04.28.47:198][227]LogLoad: LoadMap: /Game/MainLevel/level_2
+[2018.10.18-04.28.47:221][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027ad8ab9b40, Size=208
+[2018.10.18-04.28.47:222][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027aba158e20, Size=208
+[2018.10.18-04.28.47:286][227]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.10.18-04.28.47:286][227]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/PlungerController.uasset.
+[2018.10.18-04.28.47:287][227]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.10.18-04.28.47:287][227]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/PlungerController.uasset.
+[2018.10.18-04.28.47:343][227]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.28.47:343][227]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.28.47:343][227]LoadErrors: Error: /Game/Eric/Eric/Wagen_LDR_Font : Can't find file for asset. /Game/Eric/Wagen_LDR
+[2018.10.18-04.28.47:344][227]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.28.47:344][227]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.28.47:353][227]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a15e69d00, Size=208, Default__level_2_C Function /Game/MainLevel/level_2.level_2_C:ExecuteUbergraph_level_2
+[2018.10.18-04.28.47:360][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a15e69d00, Size=208
+[2018.10.18-04.28.47:360][227]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027aba159520, Size=208, Default__level_2_C Function /Engine/Transient.REINST_level_2_C_63:ExecuteUbergraph_level_2
+[2018.10.18-04.28.47:366][227]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027ad4c1eb00, Size=208, Default__level_2_C Function /Game/MainLevel/level_2.level_2_C:ExecuteUbergraph_level_2
+[2018.10.18-04.28.47:411][227]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.28.47:412][227]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.28.47:423][227]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.28.47
+[2018.10.18-04.28.47:424][227]LogWorld: Bringing up level for play took: 0.011031
+[2018.10.18-04.28.47:424][227]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.28.47:424][227]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.28.47:426][227]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2018.10.18-04.28.47:426][227]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.28.47:426][227]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.28.47:426][227]LogLoad: Took 0.228061 seconds to LoadMap(/Game/MainLevel/level_2)
+[2018.10.18-04.29.02:125][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.29.02:213][587]LogNet: Browse: /Game/Eric/Eric/MainMenu_level
+[2018.10.18-04.29.02:214][587]LogLoad: LoadMap: /Game/Eric/Eric/MainMenu_level
+[2018.10.18-04.29.02:239][587]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027ad4c1eb00, Size=208
+[2018.10.18-04.29.02:239][587]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027aba159520, Size=208
+[2018.10.18-04.29.02:241][587]LogPlayLevel: Creating play world package: /Game/Eric/Eric/UEDPIE_0_MainMenu_level
+[2018.10.18-04.29.02:242][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000849s)
+[2018.10.18-04.29.02:243][587]LogAIModule: Creating AISystem for world MainMenu_level
+[2018.10.18-04.29.02:243][587]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2018.10.18-04.29.02:243][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Eric/Eric/MainMenu_level.MainMenu_level to /Game/Eric/Eric/UEDPIE_0_MainMenu_level.MainMenu_level (0.001614s)
+[2018.10.18-04.29.02:243][587]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.29.02:245][587]LogWorld: Bringing World /Game/Eric/Eric/UEDPIE_0_MainMenu_level.MainMenu_level up for play (max tick rate 0) at 2018.10.18-15.29.02
+[2018.10.18-04.29.02:245][587]LogWorld: Bringing up level for play took: 0.000392
+[2018.10.18-04.29.02:245][587]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.29.02:246][587]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.29.02:247][587]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.29.02:247][587]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.29.02:247][587]LogLoad: Took 0.033589 seconds to LoadMap(/Game/Eric/Eric/UEDPIE_0_MainMenu_level)
+[2018.10.18-04.29.04:678][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.29.04:770][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel' has LevelScriptBlueprint '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level' with GeneratedClass '/Game/Eric/Eric/MainMenu_level.MainMenu_level_C' with ClassGeneratedBy '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level'
+[2018.10.18-04.29.04:786][816]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.29.04:821][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel' has LevelScriptBlueprint '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level' with GeneratedClass '/Game/Eric/Eric/MainMenu_level.MainMenu_level_C' with ClassGeneratedBy '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level'
+[2018.10.18-04.29.13:343][773]Cmd: MAP LOAD FILE="C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/MainMenu_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.18-04.29.13:343][773]LightingResults: New page: Lighting Build
+[2018.10.18-04.29.13:344][773]LoadErrors: New page: Loading map: MainMenu_level.umap
+[2018.10.18-04.29.13:345][773]MapCheck: New page: Map Check
+[2018.10.18-04.29.13:345][773]LightingResults: New page: Lighting Build
+[2018.10.18-04.29.13:365][773]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027ae70cddb0, Size=24
+[2018.10.18-04.29.13:375][773]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.29.13:375][773]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.29.13:375][773]LoadErrors: Error: /Game/Eric/Eric/Wagen_LDR_Font : Can't find file for asset. /Game/Eric/Wagen_LDR
+[2018.10.18-04.29.13:376][773]LogLinker: Warning: Can't find file '/Game/Eric/Wagen_LDR'
+[2018.10.18-04.29.13:376][773]LogLinker: Warning: Can't find file for asset '/Game/Eric/Wagen_LDR' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Eric/Eric/Wagen_LDR_Font.uasset.
+[2018.10.18-04.29.13:384][773]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027aba0fc100, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.29.13:385][773]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027aba0fc100, Size=24
+[2018.10.18-04.29.13:385][773]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027aba0fc100, Size=24, Default__MainMenu_level_C Function /Engine/Transient.REINST_MainMenu_level_C_65:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.29.13:387][773]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027aba0fcb68, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.29.13:392][773]LogAIModule: Creating AISystem for world MainMenu_level
+[2018.10.18-04.29.13:394][773]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.18-04.29.13:433][773]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027aba0fc100, Size=24
+[2018.10.18-04.29.13:464][773]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.18-04.29.13:545][773]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 80.976ms to complete.
+[2018.10.18-04.29.13:551][773]LogFileHelpers: Loading map 'MainMenu_level' took 0.208
+[2018.10.18-04.29.14:474][861]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.18-04.29.14:494][861]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel' has LevelScriptBlueprint '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level' with GeneratedClass '/Game/Eric/Eric/MainMenu_level.MainMenu_level_C' with ClassGeneratedBy '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level'
+[2018.10.18-04.29.14:494][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.29.14:494][861]PIE: New page: PIE session: MainMenu_level (Oct 19, 2018, 2:29:14 AM)
+[2018.10.18-04.29.14:495][861]LogPlayLevel: Creating play world package: /Game/Eric/Eric/UEDPIE_0_MainMenu_level
+[2018.10.18-04.29.14:495][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000815s)
+[2018.10.18-04.29.14:496][861]LogAIModule: Creating AISystem for world MainMenu_level
+[2018.10.18-04.29.14:496][861]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2018.10.18-04.29.14:496][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Eric/Eric/MainMenu_level.MainMenu_level to /Game/Eric/Eric/UEDPIE_0_MainMenu_level.MainMenu_level (0.001515s)
+[2018.10.18-04.29.14:522][861]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.29.14:530][861]LogInit: FAudioDevice initialized.
+[2018.10.18-04.29.14:622][861]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.29.14:623][861]LogWorld: Bringing World /Game/Eric/Eric/UEDPIE_0_MainMenu_level.MainMenu_level up for play (max tick rate 0) at 2018.10.18-15.29.14
+[2018.10.18-04.29.14:623][861]LogWorld: Bringing up level for play took: 0.000326
+[2018.10.18-04.29.14:626][861]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.29.14:631][861]PIE: Play in editor start time for /Game/Eric/Eric/UEDPIE_0_MainMenu_level 0.189
+[2018.10.18-04.29.14:631][861]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel' has LevelScriptBlueprint '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level' with GeneratedClass '/Game/Eric/Eric/MainMenu_level.MainMenu_level_C' with ClassGeneratedBy '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level'
+[2018.10.18-04.29.16:457][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.29.16:549][ 12]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.29.16:556][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel' has LevelScriptBlueprint '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level' with GeneratedClass '/Game/Eric/Eric/MainMenu_level.MainMenu_level_C' with ClassGeneratedBy '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level'
+[2018.10.18-04.29.16:591][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel' has LevelScriptBlueprint '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level' with GeneratedClass '/Game/Eric/Eric/MainMenu_level.MainMenu_level_C' with ClassGeneratedBy '/Game/Eric/Eric/MainMenu_level.MainMenu_level:PersistentLevel.MainMenu_level'
+[2018.10.18-04.29.17:385][ 95]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-04.29.17:395][ 95]LogSlate: Window 'Message Log' being destroyed
+[2018.10.18-04.31.02:287][425]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.10.18-04.31.02:287][425]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/PlungerController.uasset.
+[2018.10.18-04.31.02:287][425]LoadErrors: Error: /Game/Andy/blueprint/PlungerController : Can't find file for asset. /Game/model/SM_Plunger
+[2018.10.18-04.31.02:288][425]LogLinker: Warning: Can't find file '/Game/model/SM_Plunger'
+[2018.10.18-04.31.02:288][425]LogLinker: Warning: Can't find file for asset '/Game/model/SM_Plunger' while loading C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/Andy/blueprint/PlungerController.uasset.
+[2018.10.18-04.31.02:352][425]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a15e68b80, Size=208, Default__level_2_C Function /Game/MainLevel/level_2.level_2_C:ExecuteUbergraph_level_2
+[2018.10.18-04.31.02:359][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a15e68b80, Size=208
+[2018.10.18-04.31.02:359][425]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a6ccdb040, Size=208, Default__level_2_C Function /Engine/Transient.REINST_level_2_C_67:ExecuteUbergraph_level_2
+[2018.10.18-04.31.02:365][425]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a3cebdec0, Size=208, Default__level_2_C Function /Game/MainLevel/level_2.level_2_C:ExecuteUbergraph_level_2
+[2018.10.18-04.31.02:403][425]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.31.02:438][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a6ccdb040, Size=208
+[2018.10.18-04.31.02:439][425]Cmd: MAP LOAD FILE="C:/Users/asus/Documents/GitHub/FIT3145-Nuclear-Moment/FIT3145_NuclearMoment_419/NuclearMoment/Content/MainLevel/level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.18-04.31.02:440][425]LightingResults: New page: Lighting Build
+[2018.10.18-04.31.02:440][425]LoadErrors: New page: Loading map: level_2.umap
+[2018.10.18-04.31.02:441][425]MapCheck: New page: Map Check
+[2018.10.18-04.31.02:441][425]LightingResults: New page: Lighting Build
+[2018.10.18-04.31.02:463][425]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027aba0fcb68, Size=24
+[2018.10.18-04.31.02:481][425]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.18-04.31.02:530][425]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.18-04.31.02:610][425]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.192ms to complete.
+[2018.10.18-04.31.02:610][425]LogFileHelpers: Loading map 'level_2' took 0.172
+[2018.10.18-04.31.04:763][671]LogEditorViewport: Clicking on Actor (LMB): BallController_C (BallController4)
+[2018.10.18-04.31.07:680][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-04.31.08:545][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.31.08:545][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.31.08:545][ 80]PIE: New page: PIE session: level_2 (Oct 19, 2018, 2:31:08 AM)
+[2018.10.18-04.31.08:545][ 80]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.31.08:552][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007945s)
+[2018.10.18-04.31.08:553][ 80]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.31.08:553][ 80]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2018.10.18-04.31.08:553][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.009007s)
+[2018.10.18-04.31.08:580][ 80]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.31.08:588][ 80]LogInit: FAudioDevice initialized.
+[2018.10.18-04.31.08:591][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.18-04.31.08:681][ 80]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.31.08:684][ 80]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.31.08
+[2018.10.18-04.31.08:684][ 80]LogWorld: Bringing up level for play took: 0.002440
+[2018.10.18-04.31.08:686][ 80]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.31.08:687][ 80]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.31.08:691][ 80]PIE: Play in editor start time for /Game/MainLevel/UEDPIE_0_level_2 0.249
+[2018.10.18-04.31.08:691][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.31.13:311][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.31.13:328][570]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.31.13:366][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.31.16:698][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.31.16:796][955]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.18-04.31.16:814][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.31.16:814][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-04.31.16:814][955]PIE: New page: PIE session: level_2 (Oct 19, 2018, 2:31:16 AM)
+[2018.10.18-04.31.16:814][955]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.31.16:823][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008415s)
+[2018.10.18-04.31.16:823][955]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.31.16:823][955]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2018.10.18-04.31.16:824][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.009145s)
+[2018.10.18-04.31.16:848][955]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.18-04.31.16:856][955]LogInit: FAudioDevice initialized.
+[2018.10.18-04.31.16:951][955]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.31.16:954][955]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.31.16
+[2018.10.18-04.31.16:954][955]LogWorld: Bringing up level for play took: 0.002189
+[2018.10.18-04.31.16:956][955]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.31.16:957][955]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.31.16:960][955]PIE: Play in editor start time for /Game/MainLevel/UEDPIE_0_level_2 0.518
+[2018.10.18-04.31.16:961][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.36.39:157][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.36.39:259][961]LogNet: Browse: /Game/MainLevel/level_2
+[2018.10.18-04.36.39:259][961]LogLoad: LoadMap: /Game/MainLevel/level_2
+[2018.10.18-04.36.39:285][961]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.36.39:293][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007667s)
+[2018.10.18-04.36.39:293][961]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.36.39:294][961]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2018.10.18-04.36.39:294][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.008631s)
+[2018.10.18-04.36.39:294][961]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.36.39:298][961]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.36.39
+[2018.10.18-04.36.39:298][961]LogWorld: Bringing up level for play took: 0.002789
+[2018.10.18-04.36.39:299][961]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.36.39:300][961]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.36.39:301][961]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2018.10.18-04.36.39:302][961]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.36.39:302][961]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.36.39:302][961]LogLoad: Took 0.042502 seconds to LoadMap(/Game/MainLevel/UEDPIE_0_level_2)
+[2018.10.18-04.36.49:615][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.36.49:709][ 84]LogNet: Browse: /Game/Eric/Eric/MainMenu_level
+[2018.10.18-04.36.49:709][ 84]LogLoad: LoadMap: /Game/Eric/Eric/MainMenu_level
+[2018.10.18-04.36.49:739][ 84]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a5cc26038, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.36.49:741][ 84]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a5cc26038, Size=24
+[2018.10.18-04.36.49:741][ 84]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a5cc26038, Size=24, Default__MainMenu_level_C Function /Engine/Transient.REINST_MainMenu_level_C_69:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.36.49:742][ 84]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027a5cc26020, Size=24, Default__MainMenu_level_C Function /Game/Eric/Eric/MainMenu_level.MainMenu_level_C:ExecuteUbergraph_MainMenu_level
+[2018.10.18-04.36.49:754][ 84]LogAIModule: Creating AISystem for world MainMenu_level
+[2018.10.18-04.36.49:754][ 84]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.36.49:756][ 84]LogWorld: Bringing World /Game/Eric/Eric/UEDPIE_0_MainMenu_level.MainMenu_level up for play (max tick rate 0) at 2018.10.18-15.36.49
+[2018.10.18-04.36.49:756][ 84]LogWorld: Bringing up level for play took: 0.000643
+[2018.10.18-04.36.49:756][ 84]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.36.49:757][ 84]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.36.49:759][ 84]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.36.49:759][ 84]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.36.49:759][ 84]LogLoad: Took 0.049952 seconds to LoadMap(/Game/Eric/Eric/MainMenu_level)
+[2018.10.18-04.36.51:437][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.36.51:538][276]LogNet: Browse: /Game/MainLevel/level_2
+[2018.10.18-04.36.51:539][276]LogLoad: LoadMap: /Game/MainLevel/level_2
+[2018.10.18-04.36.51:560][276]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a5cc26020, Size=24
+[2018.10.18-04.36.51:560][276]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027a5cc26038, Size=24
+[2018.10.18-04.36.51:562][276]LogPlayLevel: Creating play world package: /Game/MainLevel/UEDPIE_0_level_2
+[2018.10.18-04.36.51:569][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007191s)
+[2018.10.18-04.36.51:570][276]LogAIModule: Creating AISystem for world level_2
+[2018.10.18-04.36.51:570][276]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2018.10.18-04.36.51:570][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel/level_2.level_2 to /Game/MainLevel/UEDPIE_0_level_2.level_2 (0.008213s)
+[2018.10.18-04.36.51:570][276]LogLoad: Game class is 'Pinballgamemode_C'
+[2018.10.18-04.36.51:574][276]LogWorld: Bringing World /Game/MainLevel/UEDPIE_0_level_2.level_2 up for play (max tick rate 0) at 2018.10.18-15.36.51
+[2018.10.18-04.36.51:575][276]LogWorld: Bringing up level for play took: 0.003019
+[2018.10.18-04.36.51:575][276]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.36.51:575][276]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.18-04.36.51:576][276]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 1,
+[2018.10.18-04.36.51:577][276]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.36.51:577][276]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Andy/blueprint/player0_controller.player0_controller_C:ExecuteUbergraph_player0_controller'!
+[2018.10.18-04.36.51:577][276]LogLoad: Took 0.038461 seconds to LoadMap(/Game/MainLevel/UEDPIE_0_level_2)
+[2018.10.18-04.38.26:662][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-04.38.26:764][800]LogSlate: Window 'NuclearMoment Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.18-04.38.26:774][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
+[2018.10.18-04.38.26:808][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainLevel/level_2.level_2:PersistentLevel' has LevelScriptBlueprint '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2' with GeneratedClass '/Game/MainLevel/level_2.level_2_C' with ClassGeneratedBy '/Game/MainLevel/level_2.level_2:PersistentLevel.level_2'
